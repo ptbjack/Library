@@ -1,0 +1,13 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "Files",
+  "fileSortOrder": "alphabetical",
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "tr"
+  ]
+}

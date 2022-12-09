@@ -1,0 +1,11 @@
+{
+  "jsonFile": "rewards.json",
+  "templateFile": "rewards.md",
+  "jsonName": "",
+  "jsonNamePath": false,
+  "folderName": "Rest",
+  "topField": "",
+  "notePrefix": "",
+  "noteSuffix": "",
+  "overwrite": true
+}
