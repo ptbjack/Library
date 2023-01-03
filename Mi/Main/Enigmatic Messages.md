@@ -3,7 +3,7 @@
 Status: 
 Tags: 
 
-[[@Jean Laplanche]]: material cause that cannot be reduced to empirical event.[^1]
+[[Laplanche]]: material cause that cannot be reduced to empirical event.[^1]
 * Third material reality of the enigmatic message.
 * Enigmatic message not only so for the receiver but also for the sender.
 
@@ -21,4 +21,4 @@ Three elements:
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Laplanche and the cause of the unconscious]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Laplanche and the cause of the unconscious]]

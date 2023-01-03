@@ -19,5 +19,5 @@ Protests in Iran have world-historical significance because they combine differe
 ---
 # References
 
-[^1]: [[@Slavoj Zizek]], [[Women, Life, Freedom, and the Left]]
-[^2]: [[@Garbis Altınoğlu]], [[İran'da Yaşananlara Doğru Yaklaşmak]]
+[^1]: [[Capture/Zizek/Zizek]], [[Women, Life, Freedom, and the Left]]
+[^2]: [[Altınoğlu]], [[İran'da Yaşananlara Doğru Yaklaşmak]]

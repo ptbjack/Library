@@ -65,7 +65,7 @@ Bireysel bir paylaşım, özellikle bireyi bir saldırının nesnesi olarak suna
 
 İfşaların gerekçesi, devletin ve yargının eril bir karakter taşıması nedeniyle kadınların ifşa temelli bir mücadeleye ve ceza arayışına mecbur kaldığıdır.
 
-[[@Friedrich Engels]]: Kadının bir cins olarak ezilmesi, özel mülkiyet ilişkisinden önce gelmiş ve sınıflı toplumların kurulmasının zeminini döşemiştir.
+[[Engels]]: Kadının bir cins olarak ezilmesi, özel mülkiyet ilişkisinden önce gelmiş ve sınıflı toplumların kurulmasının zeminini döşemiştir.
 - Ailesiz bir özel mülkiyet düzeninden veya örgütlenmiş sınıflı toplumdan söz etmek mümkün olmaz.
 	- "Eril olmayan" bir aileden, "eril olmayan özel mülkiyetten" veya "sınıfsız toplum devletinden" söz etmek mümkün değildir (proletarya diktatörlüğü dahi sınıfsız toplum devleti değil, sınıfsız topluma varma hedefi taşıyan bir devlettir).
 - ==="Eril aile", "eril devlet" içi boş bir totolojiyi dile getirerek ve kadını ezmeyen ailenin veya devlet düzeninin bulunduğu hayalini yayarak devleti, sınıflı, aileli bir sosyal barışın propagandasını yapmaktadır===.

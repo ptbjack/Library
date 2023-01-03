@@ -11,4 +11,4 @@ Capitalism is insufficiently evolved to survive the technologies it spawns.[^1]
 ---
 # References
 
-[^1]: [[@Yanis Varoufakis]]. [[The Communist Manifesto#Introduction]]
+[^1]: [[Varoufakis]]. [[The Communist Manifesto#Introduction]]

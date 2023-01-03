@@ -20,4 +20,4 @@ Devrimden sonra:
 ---
 # References
 
-[^1]: [[@Garbis Altınoğlu]], [[İran'da Yaşananlara Doğru Yaklaşmak#16. Yılında İran Devrimi (1995)]]
+[^1]: [[Altınoğlu]], [[İran'da Yaşananlara Doğru Yaklaşmak#16. Yılında İran Devrimi (1995)]]

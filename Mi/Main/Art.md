@@ -14,4 +14,4 @@ Works of art are not meant for viewer/reader, do not presuppose attention [^1]
 ---
 # References
 
-[^1]: [[@Walter Benjamin]] [[The Translator's Task]]
+[^1]: [[Benjamin]] [[The Translator's Task]]

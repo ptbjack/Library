@@ -4,7 +4,7 @@ Status:
 Tags: 
 
 No ‘free subject’ that has [[Freedom]] as essential attribute.[^1]
-* [[@Jacques Lacan]]: subject is the effect of the structure, it is anything but free.
+* [[Lacan]]: subject is the effect of the structure, it is anything but free.
 * Subject is the point of regularity, of structure, in which the structure breaks down or displays inner contradiction, negativity, contingency, interruption, or a lack of its own foundation.
 
 Subject of the [[Unconscious]] is what emerges when he can choose only meaning between being and meaning.
@@ -14,4 +14,4 @@ Subject of the [[Unconscious]] is what emerges when he can choose only meaning b
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]

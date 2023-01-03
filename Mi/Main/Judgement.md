@@ -22,4 +22,4 @@ Two decisions in the function of judgement:[^1]
 ---
 # References
 
-[^1]: [[@Sigmund Freud]], [[Negation (Verneinung)]]
+[^1]: [[Freud]], [[Negation (Verneinung)]]

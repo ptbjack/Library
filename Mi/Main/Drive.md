@@ -12,7 +12,7 @@ Embodies inner split of all satisfaction (possibility of supplemental satisfacti
 		* Subject finds satisfaction through the detour of the Other.
 			* Detour is irreducible (i.e. transference is inevitable illusion)
 
-[[@Jacques Lacan]]: drive finds its satisfaction without attaining its aim.[^3]
+[[Lacan]]: drive finds its satisfaction without attaining its aim.[^3]
 * Drive is not element but elementary form of the split that precedes the elements split in it.
 * Object of drive is the gap itself as object.
 
@@ -28,6 +28,6 @@ Split entails the division between the mental and the physical and their possibl
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
-[^2]: [[@Alenka Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^3]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^3]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]]

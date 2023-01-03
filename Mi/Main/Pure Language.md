@@ -17,4 +17,4 @@ Tags:
 ---
 # References
 
-[^1]: [[@Walter Benjamin]] [[The Translator's Task]]
+[^1]: [[Benjamin]] - [[The Translator's Task]]

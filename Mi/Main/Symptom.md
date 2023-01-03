@@ -10,4 +10,4 @@ Rigid symbolic form, Also a continuous process, the site of conflict determining
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]

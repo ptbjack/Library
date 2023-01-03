@@ -10,4 +10,4 @@ Separation = isolating the [[Drive]] and its object[^1]
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]

@@ -18,5 +18,5 @@ Big Other no longer has any hold on us in the guise of a concrete, ‘small’ o
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]

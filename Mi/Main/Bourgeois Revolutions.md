@@ -12,4 +12,4 @@ Revolutions before 19th century:[^1]
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]

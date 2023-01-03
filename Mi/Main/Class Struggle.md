@@ -11,4 +11,4 @@ Modern society has simplified the class struggle: whereas in feudalism or mediev
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]

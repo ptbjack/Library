@@ -1,6 +1,6 @@
 202210081506
 
-Author: [[@ICC]]
+Author: [[ICC]]
 Date: 2005-01-16
 Tags: #sum 
 Link: https://en.internationalism.org/specialtexts/IR033_functioning.htm
@@ -41,10 +41,10 @@ There is no **proportional representation** of minority positions within the cen
 
 **democratic centralism** must be rejected:
 - marked by seal of Stalinism which used it to cover up liquidation of revolutionary life in the parties of the CI.
-- [[@V. I. Lenin]] himself wrongly asked for the banning of fractions
+- [[Lenin]] himself wrongly asked for the banning of fractions
 - hierarchical and 'military' character of the organisation should be rejected.
 
-**organic** ([[@Amadeo Bordigo]]) must be rejected:
+**organic** ([[Bordigo]]) must be rejected:
 - Bordigism used the fact that a majority doesn't guarantee a correct position to ban votes and elections
 - leaders arise 'by themselves' through organic process: means giving the 'center' the job of deciding everything, leading this 'center' to align itself behind the positions of a **historic leader** who has divine infallibility.
 

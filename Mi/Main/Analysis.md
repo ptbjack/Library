@@ -21,6 +21,6 @@ The end of analysis would be abandoning the thing in itself while preserving the
 ---
 # References
 
-[^1]: [[Zupancic, Alenka]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Zupancic, Alenka]], [[Why Psychoanalysis#Some (un)timely observations]]
-[^3]: [[Zupancic, Alenka]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]

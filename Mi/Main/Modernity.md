@@ -4,7 +4,7 @@ Status:
 Tags: 
 
 Modernity is not a summary concept.[^1]
-- [[Marx, Karl]]: modern times began with abstract and general wealth
+- [[Marx]]: modern times began with abstract and general wealth
 - The questıon of the domain of the will belongs to modernity.
 
 

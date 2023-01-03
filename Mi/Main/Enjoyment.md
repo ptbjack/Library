@@ -11,5 +11,5 @@ Enjoyment is always-already social, linked to the Other: the Other guarantees th
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
-[^2]: [[@Alenka Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]

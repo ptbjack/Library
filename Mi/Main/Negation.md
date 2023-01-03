@@ -30,5 +30,5 @@ The "Not" is condition of the unconscious, **Grund**.[^2]
 ---
 # References
 
-[^1]: [[@Sigmund Freud]], [[Negation (Verneinung)]]
-[^2]: [[Zupancic, Alenka]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Freud]], [[Negation (Verneinung)]]
+[^2]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]

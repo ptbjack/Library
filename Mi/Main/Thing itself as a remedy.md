@@ -10,4 +10,4 @@ The Thing itself as remedy: philanthropist finance and Bill Gates, green bullets
 ---
 # References
 
-[^1]: [[Zizek, Slavoj]], [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]
+[^1]: [[Zizek]], [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]

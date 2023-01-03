@@ -10,4 +10,4 @@ The executive of the modern State is a committee for managing the common affairs
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]

@@ -8,13 +8,6 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:@",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
       "query": "path:Main",
       "color": {
         "a": 1,
@@ -39,6 +32,6 @@
   "repelStrength": 15.6770833333333,
   "linkStrength": 1,
   "linkDistance": 217,
-  "scale": 0.13168724279835808,
+  "scale": 0.5087618855792951,
   "close": false
 }

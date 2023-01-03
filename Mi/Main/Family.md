@@ -10,4 +10,4 @@ The bourgeois family is based on capital, private gain. It exists only among the
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]

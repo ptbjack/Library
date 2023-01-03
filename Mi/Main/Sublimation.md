@@ -12,4 +12,4 @@ Sublimation is satisfaction of the drive, without repression.[^1]
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[What is Sex#Introduction]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[What is Sex#Introduction]]

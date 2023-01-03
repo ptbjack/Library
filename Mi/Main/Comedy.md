@@ -3,7 +3,7 @@
 Status: 
 Tags: 
 
-[[@Sigmund Freud]]: jokes work with resistances, circumventing them with unexpected pleasure.
+[[Freud]]: jokes work with resistances, circumventing them with unexpected pleasure.
 - **sublimation**: satisfaction of drives without repression taking place. comedy and philosophy can function as **gay science**.[^1]
 
 Comedy as a social form that allows for dealing with impulses/ideas we don't want to think about and repress:
@@ -44,6 +44,6 @@ difference is what they do with individual/social repressions [^1]
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]] [[Stand Up for Comedy]]
+[^1]: [[Capture/Zupancic/Zupancic]] [[Stand Up for Comedy]]
 [^2]: https://youtu.be/5I2dhXdwfX0
-[^3]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Intervention 3]]
+[^3]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]]

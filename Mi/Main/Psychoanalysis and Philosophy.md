@@ -13,6 +13,6 @@ Freud's essay ([[Negation (Verneinung)]]) is "birth of thinking out of the spiri
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]]. [[Why Psychoanalysis#Sexuality and Ontology]]
-[^2]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Lacan and the 'lamella']]
-[^3]: [[Zupancic, Alenka]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Capture/Zupancic/Zupancic]]. [[Why Psychoanalysis#Sexuality and Ontology]]
+[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Lacan and the 'lamella']]
+[^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]

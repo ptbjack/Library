@@ -4,7 +4,7 @@ Status:
 Tags: 
 
 
-[[@Angela Nagle]]: populist right taking the side of transgression, the left taking the conservative side, defending order and introducing more rules.[^1]
+[[Nagle]]: populist right taking the side of transgression, the left taking the conservative side, defending order and introducing more rules.[^1]
 - the difference that makes a difference has shifted
 
 ## Dealing with [[Discontent]]:
@@ -17,7 +17,7 @@ Tags:
 Populist right: Trump says what's on his mind so I don't have to say what's on my mind[^1]
 Avrupa, çok kültürlülük ve cinsiyet eşitliği taleplerine karşı çıkan sağ akımlar.[^2]
 - Kapitalizmi doğal ekonomik sistem olarak kabul ediyorlar.
-- [[@Tanıl Bora]]: muhafazakar devrim, klasik muhafazakarlığın aksine "muhafaza etmeye değer bir şey yaratmak" amacıyla hareket ediyor.
+- [[Bora]]: muhafazakar devrim, klasik muhafazakarlığın aksine "muhafaza etmeye değer bir şey yaratmak" amacıyla hareket ediyor.
 - Neoliberal politikaları eleştirirken kapitalizm karşıtı bir öneri dile getirmiyorlar.
 	- Erdoğan'ın kapitalizmle bir sorunu yok, amacı hep "piyasa toplumu" kurmaktı.
 - Neoliberalizmi ve muhafazakar devrimi harmanlayan radikallik.
@@ -33,6 +33,6 @@ Liberal consensus is breaking down.[^3]
 ---
 # References
 
-[^1]: [[Zupancic, Alenka]], [[Stand Up for Comedy]]
-[^2]: [[@Ahmet İnsel]], [[Erdoğanizm Muhafazakar Devrimci midir]]
-[^3]: [[Zizek, Slavoj]], [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Stand Up for Comedy]]
+[^2]: [[İnsel]], [[Erdoğanizm Muhafazakar Devrimci midir]]
+[^3]: [[Zizek]], [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]

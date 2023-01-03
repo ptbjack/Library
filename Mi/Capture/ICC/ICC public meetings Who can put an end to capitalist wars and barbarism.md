@@ -1,6 +1,6 @@
 202210081436
 
-Author: [[@ICC]]
+Author: [[Capture/ICC/ICC]]
 Date: 2022-04-11
 Status: #sum 
 Tags: 
@@ -20,8 +20,8 @@ Working class:
 - in Russia, rebellion and opposition to war.
 - The ruling class is no longer able to use working class as military force, more and more they turn to professional armies.
 
-[[@V. I. Lenin]]: the chain of world capitalism will break in its "weakest link", in less developed countries, on the model of Russia in 1917.
-- [[@ICC]]: the more politically developed working class of Western Europe will be key to the generalization of the class struggle.
+[[Lenin]]: the chain of world capitalism will break in its "weakest link", in less developed countries, on the model of Russia in 1917.
+- [[Capture/ICC/ICC]]: the more politically developed working class of Western Europe will be key to the generalization of the class struggle.
 
 Primacy of establishing and developing international contacts and activities, integrating local and national specificities into a more global framework of analysis.
 

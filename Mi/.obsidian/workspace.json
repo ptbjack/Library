@@ -4,43 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "024d4b3f9372c1fc",
+        "id": "f8a720803a682c16",
         "type": "tabs",
         "children": [
           {
-            "id": "51f5251b5a65d825",
+            "id": "51dbf3e5e07c2290",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capture/Cündioğlu, Dücane/Aydınlanma Nedir - Dücane Cündioğlu.md",
+                "file": "Capture/Zizek/Negativity in Hegel and Freud.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4928513a0a6ce62",
+            "id": "92fd9f8ad4b76031",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Conflictual Sciences.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "df1b02e290e06f3f",
+            "id": "a382bf8c35b43b92",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capture/Cündioğlu, Dücane/Bir Aydınlanma Çözümlemesi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -73,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cogito",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capture/Cündioğlu, Dücane/Bir Aydınlanma Çözümlemesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capture/Cündioğlu, Dücane/Bir Aydınlanma Çözümlemesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +139,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capture/Cündioğlu, Dücane/Bir Aydınlanma Çözümlemesi.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "bddc8a86cd5c7cee",
@@ -166,7 +155,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Capture/Cündioğlu, Dücane/Bir Aydınlanma Çözümlemesi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -214,19 +202,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396
+    "width": 396,
+    "collapsed": true
   },
-  "active": "df1b02e290e06f3f",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "a382bf8c35b43b92",
   "lastOpenFiles": [
-    "Capture/Cündioğlu, Dücane/Aydınlanma'nın Üç Evresi.md",
-    "Capture/Cündioğlu, Dücane/Cündioğlu, Dücane.md",
-    "Main/Marx was a pervert.md",
-    "Main/Subject.md",
-    "Main/Modernity.md",
-    "Main/Materialism.md",
-    "Main/Marx started the leftist tradition of insulting..md",
-    "Main/Life is more like Shakespeare than Wagner.md",
-    "Main/Finance Crisis in the 21th Century.md",
-    "Main/Comedy and the Uncanny.md"
+    "Element IO.md",
+    "29 Aralık ertesi.md",
+    "Capture/Zizek/Zizek.md",
+    "Capture/Marx/Marx.md",
+    "Capture/Marx/The Communist Manifesto.md",
+    "Capture/Varoufakis/Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever.md",
+    "Capture/Zupancic/Zupancic.md",
+    "Capture/Zupancic/Why Psychoanalysis.md",
+    "Capture/Zupancic/What is Sex.md",
+    "Capture/Zupancic/Stand Up for Comedy.md"
   ]
 }

@@ -16,5 +16,5 @@ Financialization has changed capitalism, it is no longer useful to indulge in cl
 ---
 # References
 
-[^1]: [[@Yanis Varoufakis]], [[Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever]]
+[^1]: [[Varoufakis]], [[Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever]]
 [^2]: [[Marx - Eisenstein - Das Kapital Part 1 (2008)]]

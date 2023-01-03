@@ -12,4 +12,4 @@ In bourgeois society capital is independent and has individuality, while the liv
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]

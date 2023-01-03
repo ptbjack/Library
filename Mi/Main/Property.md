@@ -17,4 +17,4 @@ Modern bourgeois form, property is based on **the antagonism of capital and wage
 ---
 # References
 
-[^1]: [[@Karl Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]
+[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]

@@ -25,6 +25,6 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 ---
 # References
 
-[^1]: [[Zupancic, Alenka]], [[Why Psychoanalysis#A concept of an ontological impasse]]
-[^2]: [[Zupancic, Alenka]], [[Why Psychoanalysis#The object of freedom]]
-[^3]: [[Zupancic, Alenka]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^2]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]

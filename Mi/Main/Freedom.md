@@ -13,5 +13,5 @@ Bourgeois conditions: free trade, free selling and buying. These have no meaning
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
-[^2]: [[@Karl Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
+[^2]: [[Capture/Marx/Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]

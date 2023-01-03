@@ -3,7 +3,7 @@
 Status: 
 Tags: 
 
-[[@Enzensberger, Hans Magnus]]: [[Marx, Karl]]'s mission: I have to do it, I cannot delegate it. [^1]
+[[Enzensberger]]: [[Marx]]'s mission: I have to do it, I cannot delegate it. [^1]
 - [[self-instrumentalization]]. 
 - [[Psychosomatic symptoms]].
 

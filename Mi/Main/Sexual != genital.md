@@ -9,5 +9,5 @@ Genital organization is a result, unifies originally heterogeneous, always-alrea
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]] [[Why Psychoanalysis#Freud and ***Three Essays***]]
+[^1]: [[Capture/Zupancic/Zupancic]] [[Why Psychoanalysis#Freud and ***Three Essays***]]
 [^2]: [[What is Sex#Introduction]]

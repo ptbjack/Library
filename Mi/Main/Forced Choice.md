@@ -13,4 +13,4 @@ Subject of the unconscious is what emerges when he can choose only meaning betwe
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Freedom and cause]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Freedom and cause]]

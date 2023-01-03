@@ -3,7 +3,7 @@
 Status: 
 Tags: 
 
-[[@Emmanuel Levinas]] promotes repression to the rank of the highest ethical maxim.[^1]
+[[Levinas]] promotes repression to the rank of the highest ethical maxim.[^1]
 * The Other demands our interpretation, and we are responsible for this interpretation.
 * The Other is only a catalyst, the enigma is the point through which the subject refers to itself via the constitutive interval of interpretation.
 - Close to the vicious circle of the superego
@@ -20,5 +20,5 @@ Freud's patient who says "It is not mother"; unconscious is in the censorship (f
 ---
 # References
 
-[^1]: [[Zupancic, Alenka]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Zupancic, Alenka]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]

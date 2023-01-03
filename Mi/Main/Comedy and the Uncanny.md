@@ -5,7 +5,7 @@ Tags:
 
 The comic feeling and the feeling of the [[Uncanny]](Unheimliche) are two modes of deploying the Nothing.[^1]
 * They share ‘materiality of the spectral’ and the production of the ‘impossible’ objects
-* [[@Robert Pfaller]]: four essential commonalities:
+* [[Pfaller]]: four essential commonalities:
 	* Symbolic causality (something starts as a play and takes the upper hand, functioning in the real)
 	* Success (everything succeeds too much)
 	* repetition
@@ -36,4 +36,4 @@ Difference between comedy and the uncanny:[^1]
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Intervention 3]]
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]]

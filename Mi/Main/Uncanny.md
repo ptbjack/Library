@@ -3,11 +3,11 @@
 Status: 
 Tags: 
 
-[[@Friedrich Schelling]]: the uncanny is “everything that ought to have remained secret and hidden but has come to light”.[^1]
+[[Schelling]]: the uncanny is “everything that ought to have remained secret and hidden but has come to light”.[^1]
 
 Uncanny is when the explicit knowledge deposited in the Other no longer supports our reality, when the subject is alone in seeing that there is something wrong with what is happening with no Other to support her knowledge.[^1]
 
-[[@Jacques Lacan]]: uncanny, “the lack comes to lack”, surplus object emerges in its place, has no place in given reality.
+[[Lacan]]: uncanny, “the lack comes to lack”, surplus object emerges in its place, has no place in given reality.
 * The lack comes to lack in [[objet a]], anxiety implies a certainty bound to this object.
 * Eyes being plucked out
 	* Instead of eyes, two empty holes in the person’s face
@@ -22,4 +22,4 @@ Uncanny is when the explicit knowledge deposited in the Other no longer supports
 ---
 # References
 
-[^1]: [[@Alenka Zupancic]], [[Why Psychoanalysis#Intervention 3]],
+[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]],
