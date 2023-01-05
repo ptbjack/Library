@@ -3,7 +3,7 @@ Kütüphane'de kullanılan community pluginleri:
 - Folder Note: Dosyaların kendilerine içerik eklenmesini sağlıyor, dosya başlıkları birer index sayfası olarak kullanılabiliyor.
 
 Kütüphane'deki dosyalar:
-- Capture: Birincil metin notları. Şimdilik Movies (Filmler), , ve Youtube videoları var.
+- Capture: Birincil metin notları. Şimdilik Movies (Filmler), makaleler, kitaplar ve Youtube videoları var.
 - Files: Not attachmentlarının saklandığı dosya. Bunu yerel Obsidian ayarlarından "Default location for new attachments = in the folder specified below" ve "attachment folder path = Files" olarak ayaralamak gerekebilir.
 - Main: Ana notların, birincil metinlere ve diğer notlara referansla düzenlendiği ve saklandığı yer.
 - Templates: Yeni not açıldığında alt-T kısayoluyla yazılı metin, youtube videosu, not gibi şablonları kullanarak hızlıca notu formatlayabiliyoruz. 
