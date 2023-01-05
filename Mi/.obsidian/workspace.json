@@ -4,39 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f8a720803a682c16",
+        "id": "02cbef82c50f1d0a",
         "type": "tabs",
         "children": [
           {
-            "id": "51dbf3e5e07c2290",
+            "id": "a700db2c033b4f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capture/Zizek/Negativity in Hegel and Freud.md",
+                "file": "Capture/Zizek/Zizek.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92fd9f8ad4b76031",
+            "id": "ff207d849cc70bdd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reality of the Virtual.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "a382bf8c35b43b92",
+            "id": "60283336ea6cbbc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Main/Psychoanalysis and Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218
+    "width": 200
   },
   "right": {
     "id": "edb38db5c9554c12",
@@ -102,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reality of the Virtual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reality of the Virtual.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +140,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -139,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reality of the Virtual.md"
+              }
             }
           }
         ],
@@ -155,6 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Reality of the Virtual.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,7 +195,7 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
+                  "collapse-display": false,
                   "showArrow": false,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -217,17 +230,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a382bf8c35b43b92",
+  "active": "ff207d849cc70bdd",
   "lastOpenFiles": [
-    "Element IO.md",
-    "29 Aralık ertesi.md",
+    "Capture/Zizek/Reality of the Virtual.md",
     "Capture/Zizek/Zizek.md",
-    "Capture/Marx/Marx.md",
-    "Capture/Marx/The Communist Manifesto.md",
-    "Capture/Varoufakis/Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever.md",
-    "Capture/Zupancic/Zupancic.md",
-    "Capture/Zupancic/Why Psychoanalysis.md",
-    "Capture/Zupancic/What is Sex.md",
-    "Capture/Zupancic/Stand Up for Comedy.md"
+    "Ideas/Neden psikanaliz.md",
+    "Main/Forced Choice.md",
+    "Main/Culture.md",
+    "Main/Class Struggle.md",
+    "Main/Capital.md",
+    "Main/Negation.md",
+    "Main/Psychoanalysis and Philosophy.md",
+    "Main/Bourgeois Individual.md"
   ]
 }
