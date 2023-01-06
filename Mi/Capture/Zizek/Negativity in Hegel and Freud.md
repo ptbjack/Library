@@ -1,7 +1,7 @@
 
 [Slavoj Žižek - Negativity in Hegel and Freud](https://www.youtube.com/watch?v=aKrH5O2ZB7E)
 
-Status: #ergo 
+Status: #sum  
 
 [9:58](https://www.youtube.com/watch?v=aKrH5O2ZB7E&t=598) It is only in the post-Hegelian thought (Freud's death drive, pure repetition) can we get the fundamental operation in Hegel.
 

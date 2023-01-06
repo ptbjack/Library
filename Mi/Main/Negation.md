@@ -27,8 +27,18 @@ The "Not" is condition of the unconscious, **Grund**.[^2]
 - The negation of "not-mother" allows for the symptomatic formulation, inscription of mother in reality.
 - The question to be asked is what is in the mother herself that enables her repression (the point of impossibility that determines her in her structural reality).
 
+[[Dolar]]: Freud's *Ver* are not clear negations:
+- Verdrängung: repression but not quite (there is no pure repression, there is always the return of the repressed).
+- Verwerfung: foreclosure is repression without the return?
+- Verschiebung: displacement
+- Verdichtung: condensation
+- Isolierung: taking something into account, fact loses symbolic efficiency when taken out of context.
+	- China, Mao's crimes: saying it functions as a block to any further mention of it.
+- Aufstoßung: I have to lose part of myself in order to draw the external line between me and not-me.[^3]
+
 ---
 # References
 
-[^1]: [[Freud]], [[Negation (Verneinung)]]
-[^2]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Negation (Verneinung)]]
+[^2]: [[Not-Mother On Freud's Verneinung]]
+[^3]: [[Negativity in Hegel and Freud]]

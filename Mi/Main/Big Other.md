@@ -15,8 +15,12 @@ Big Other no longer has any hold on us in the guise of a concrete, ‘small’ o
 * The symbolic order appears as a playground within which we are free yet we are utterly powerless in relation to the crucial parameters of this socio-economic structure itself.
 	* Radical [[foreclosure]] of the cause, of the object-cause, and [[freedom]].
 	* Freedom becomes abstract ‘freedom of choice’
+* Big Other is [[Virtual]].
+* Multitude is an effect of the inconsistency of the One itself.[^3]
+	* [[Real as pure difference]]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Why Psychoanalysis#Some (un)timely observations]]
+[^3]: [[Reality of the Virtual]]

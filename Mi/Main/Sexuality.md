@@ -26,5 +26,5 @@ The satisfaction in talking contains a key to sexual satisfaction, or a key to s
 - [[Sublimation]]
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]] [[Why Psychoanalysis#Freud and Three Essays]]
-[^2]: [[Capture/Zupancic/Zupancic]] [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^1]: [[Why Psychoanalysis#Freud and Three Essays]]
+[^2]: [[Why Psychoanalysis#A concept of an ontological impasse]]

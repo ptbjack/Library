@@ -7,8 +7,10 @@ Modern society has simplified the class struggle: whereas in feudalism or mediev
 - Bourgeoisie is unfit to be the ruling class in society because it is incompetent to assure an existence to its slave within his slavery.
 	- Previously, oppressing classes gave the oppressed class conditions to survive. 
 
+Class struggle is [[virtual]], real real.
+
 
 ---
 # References
 
-[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]
+[^1]: [[The Communist Manifesto#I. Bourgeois and Proletarians]]

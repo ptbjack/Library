@@ -19,12 +19,19 @@ Constitution of the unconscious as the refuse of interpretations of [[Enigmatic 
 Any change in our unconscious must be made in the Other since the Other guarantees the consistency of the field of [[Meaning]].
 The unconscious of the Other is 'sacrificed' in the constitution of the subject's own unconscious.[^2]
 
-Third dimension of the unconscious. Lacan: the status of the unconscious is not ontical but ethical.[^3]
-		- Ontically, it is elusive. It is not an alternative reality into which we could translate the slips and symptoms of our reality.
-		- We circumscribe it in a temporal structure.
+Third dimension of the unconscious. Lacan: the status of the unconscious is not ontic but ethical.[^3]
+- Ontically, it is elusive. It is not an alternative reality into which we could translate the slips and symptoms of our reality.
+- We circumscribe it in a temporal structure.
+
+[[Hegel]] vs [[Freud]]:[^4]
+- Hegel: Sense perception, "Now": unconscious is the universal form opposed to the particular content of my conscious thought. (You don't see the formal aspect i.e. the inner necessity of the passage from one figure of consciousness to the other)
+- Freud, particular lateral connections, associations.
+	- Form: pregnant woman's ambiguous dream signals that the father of the baby is unclear.
+
 ---
 # References
 
 [^1]: [[Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
 [^2]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
 [^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
+[^4]: [[Zizek]], [[Negativity in Hegel and Freud]]

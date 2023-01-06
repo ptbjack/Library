@@ -4,47 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "02cbef82c50f1d0a",
+        "id": "4cef58a2886f0dfb",
         "type": "tabs",
         "children": [
           {
-            "id": "a700db2c033b4f93",
+            "id": "f2cf0160d67ecd78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capture/Zizek/Zizek.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff207d849cc70bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reality of the Virtual.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60283336ea6cbbc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Psychoanalysis and Philosophy.md",
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4e0bc4c6d22040d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc0b65ff870e87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,8 +66,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cogito",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reality of the Virtual.md",
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reality of the Virtual.md",
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reality of the Virtual.md"
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md"
               }
             }
           }
@@ -167,11 +160,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Reality of the Virtual.md",
+                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 2,
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -205,7 +198,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.36288736930121257,
+                  "scale": 0.18462326225858183,
                   "close": true
                 }
               }
@@ -215,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396,
-    "collapsed": true
+    "width": 396
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,17 +222,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ff207d849cc70bdd",
+  "active": "ea43cb04562f8fee",
   "lastOpenFiles": [
     "Capture/Zizek/Reality of the Virtual.md",
-    "Capture/Zizek/Zizek.md",
-    "Ideas/Neden psikanaliz.md",
-    "Main/Forced Choice.md",
-    "Main/Culture.md",
-    "Main/Class Struggle.md",
-    "Main/Capital.md",
-    "Main/Negation.md",
-    "Main/Psychoanalysis and Philosophy.md",
-    "Main/Bourgeois Individual.md"
+    "Main/Social Dimension of Psychoanalysis.md",
+    "Main/Superego.md",
+    "Main/Sexuality.md",
+    "Capture/Zupancic/Zupancic.md",
+    "Politics of pure difference.md",
+    "Real as pure difference.md",
+    "Infinite judgment.md",
+    "Main/Big Other.md",
+    "Main/Class Struggle.md"
   ]
 }

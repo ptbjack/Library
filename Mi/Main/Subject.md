@@ -10,8 +10,11 @@ No ‘free subject’ that has [[Freedom]] as essential attribute.[^1]
 Subject of the [[Unconscious]] is what emerges when he can choose only meaning between being and meaning.
 - [[Forced Choice]]
 
-
+Infinity:[^2]
+- true infinity is that of subjective self-relating.
+- Marx: ==capital is automatic subject ==(capital is both bad infinity and good infinity).
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
+[^1]: [[Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
+[^2]: [[Zizek]], [[Negativity in Hegel and Freud]]
