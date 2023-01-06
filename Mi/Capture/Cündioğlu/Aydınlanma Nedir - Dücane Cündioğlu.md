@@ -4,7 +4,7 @@ Of: [[Capture/Cündioğlu/Cündioğlu]]
 Date: 2017-10-27
 Series: Teke Tek Özel
 Channel: Habertürk TV
-Status: #ergo
+Status: #sum
 Tags: 
 Link: https://youtu.be/9i-jRllCBhA
 

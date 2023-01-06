@@ -9,7 +9,12 @@ Modern bourgeois form, [[property]] is based on **the antagonism of capital and 
 
 In bourgeois society capital is independent and has individuality, while the living person is dependent and has no individuality.
 
+Capitalism is insufficiently evolved to survive the technologies it spawns.[^2]
+- Capitalism is irrational; fails to make rational use of the brilliant machines it engenders.
+- The trick is to help speed up capital's development while resisting its tendency to steamroll over our human spirit.
+
 ---
 # References
 
-[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#II. Proletarians and Communists]]
+[^1]: [[The Communist Manifesto#II. Proletarians and Communists]]
+[^2]: [[The Communist Manifesto#Introduction]]

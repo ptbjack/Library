@@ -22,4 +22,4 @@ Uncanny is when the explicit knowledge deposited in the Other no longer supports
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]],
+[^1]: [[Why Psychoanalysis#Intervention 3]],

@@ -4,7 +4,7 @@ Of: [[Cündioğlu]]
 Date: 2021
 Series: [[1+1=1]]
 Channel: BloombergHT
-Status: #ergo 
+Status: #sum 
 Tags:
 Link: https://youtu.be/PRdk7R8KLcc
 
@@ -63,7 +63,7 @@ Düşünememe yeteneksizliği nasıl aşılır?
 - Eğitim, aydınlanma ve kültürü bir araya getirir.
 
 [[Adorno]], otorite ihtiyacı:
-- [[Capture/Freud/Freud]] necessary parricide, sometime somehow we all have to kill our fathers.
+- [[Freud]] necessary parricide, sometime somehow we all have to kill our fathers.
 - Otoritesiz toplum olabilir mi? Ateistler toplum kurabilir mi?
 - [[Dante]]: authority is the pass from the father's law to that of the state.
 - Otorite ihtiyacı, aldanma ihtiyacı.

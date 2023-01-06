@@ -17,4 +17,4 @@ Tags:
 ---
 # References
 
-[^1]: [[Benjamin]] - [[The Translator's Task]]
+[^1]: [[The Translator's Task]]

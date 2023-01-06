@@ -36,4 +36,4 @@ Difference between comedy and the uncanny:[^1]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]]
+[^1]: [[Why Psychoanalysis#Intervention 3]]

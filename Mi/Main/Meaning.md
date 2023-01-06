@@ -17,4 +17,4 @@ The Other guarantees the consistency of the field of meaning, knows everything e
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]

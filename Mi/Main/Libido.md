@@ -12,4 +12,4 @@ Libido names the ‘energy’ involved in the processes of supplementary satisfa
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Freud and Three Essays]]
+[^1]: [[Why Psychoanalysis#Freud and Three Essays]]

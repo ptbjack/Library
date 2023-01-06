@@ -20,6 +20,6 @@ We do not live in times of accelerated dissolution of the social ties or the eme
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]] [[Stand Up for Comedy]]
-[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis]]
-[^3]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
+[^1]: [[Stand Up for Comedy]]
+[^2]: [[Why Psychoanalysis]]
+[^3]: [[Why Psychoanalysis#Some (un)timely observations]]

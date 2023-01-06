@@ -9,6 +9,7 @@ the real of the super-ego injunction to enjoy:[^1]
     * Tolerance of avoiding harassment, intolerance of coming too close.
     * Ulrich Beck: "Humanitarian militarism": wars for peace
 
+God in [[Breaking the Waves]]
 
 ---
 # References

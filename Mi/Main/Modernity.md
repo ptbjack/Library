@@ -15,7 +15,7 @@ Modernity is not a summary concept.[^1]
 		* We already had alternate modernities (e.g. [[fascism]]). Didn't work.
 - There is antagonism in the very universal notion of modernity.
     * Modernity as a notion names a deadlock, particular attempts are attempts to solve it.
-    * Universality is the sight of antagonism ([[virtual]])
+    * Universality is the sight of antagonism ([[Virtual]])
 ---
 # References
 

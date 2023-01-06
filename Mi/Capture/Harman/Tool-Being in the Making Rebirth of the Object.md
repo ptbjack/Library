@@ -5,7 +5,7 @@ Published: 2022
 Series: 
 Channel: [[Nomadic Thought Organization]]
 Status: 
-Tags: #ergo 
+Tags: #sum 
 Link: https://youtu.be/CWZtyy0V4Uw
 
 Philosophy starts with uncertainty and not with certainty.
@@ -24,7 +24,7 @@ Realism: there is a reality outside of any relation.
 [[Heidegger]]: we take things for granted, our consciousness is actually minimal.
 - You notice things when they break, not when things are going well. 
 - Tool analysis is about the Thing itself.
-- Heidegger should be referred to as the philosopher of object that break, objects that are not smooth-functioning equipment but are independent.
+- Heidegger should be referred to as the philosopher of objects that break, objects that are not smooth-functioning equipment but are independent.
 
 Meaning of Being: being is that which is not immediately present for us.
 - Withdrawal: nothing becomes fully present to anyone.

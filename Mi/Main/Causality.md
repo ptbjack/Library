@@ -18,4 +18,4 @@ Cause = discontinuity (what caused this slip of the tongue?)[^1]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#"There is but the cause of that which does not work"]]
+[^1]: [[Why Psychoanalysis#"There is but the cause of that which does not work"]]

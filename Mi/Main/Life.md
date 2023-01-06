@@ -10,7 +10,9 @@ Tags:
 
 **continuing life** of a work of art, transformation and renewal of a living thing.
 
+[[Life is more like Shakespeare than Wagner]]
+
 ---
 # References
 
-[^1]: [[Benjamin]] [[The Translator's Task]]
+[^1]: [[The Translator's Task]]

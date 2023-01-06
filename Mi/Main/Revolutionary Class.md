@@ -5,4 +5,4 @@ The proletariat alone is a revolutionary class;[^1]
 
 # References
 
-[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#I. Bourgeois and Proletarians]]
+[^1]: [[The Communist Manifesto#I. Bourgeois and Proletarians]]

@@ -22,4 +22,4 @@ International Communist Current:[^1]
 ---
 # References
 
-[^1]: International Communist Current, [[Report on the structure and functioning of the revolutionary organisation]]
+[^1]: [[Report on the structure and functioning of the revolutionary organisation]]

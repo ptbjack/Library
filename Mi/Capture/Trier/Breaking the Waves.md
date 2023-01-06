@@ -1,6 +1,6 @@
 By: [[Trier]]
 Released: 1996
-Tag: #ergo
+Tag: #sum
 Bess is religious simpleton girl living in an isolated Catholic community that has elders who have a say on everything.
 - Women are not allowed to attend funerals or speak at church gatherings.
 	- Bess confronts "love the word" wearing prostitute clothes towards the end of the film.

@@ -15,4 +15,4 @@ The generative source of culture is sexual in the sense of belonging to the supp
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Freud and Three Essays]]
+[^1]: [[Why Psychoanalysis#Freud and Three Essays]]

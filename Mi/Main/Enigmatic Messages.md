@@ -21,4 +21,4 @@ Three elements:
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Laplanche and the cause of the unconscious]]
+[^1]:[[Why Psychoanalysis#Laplanche and the cause of the unconscious]]

@@ -13,4 +13,4 @@ Ulus devlet, kapitalist modernitenin sermayenin tek bir elde toplanmasını arzu
 ---
 # References
 
-[^1]: [[Akansel]], [[Bütün etno-sentrik devletler kardeştir]]
+[^1]: [[Bütün etno-sentrik devletler kardeştir]]

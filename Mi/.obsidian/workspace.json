@@ -4,37 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4cef58a2886f0dfb",
+        "id": "69a6adedd8992519",
         "type": "tabs",
         "children": [
           {
-            "id": "f2cf0160d67ecd78",
+            "id": "af5b5b7e1bd2deff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e0bc4c6d22040d5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6bc0b65ff870e87d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -103,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,13 +118,10 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md"
-              }
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "bddc8a86cd5c7cee",
@@ -160,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Capture/Cündioğlu/Bir Aydınlanma Çözümlemesi.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +170,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858183,
+                  "scale": 0.25883865621816377,
                   "close": true
                 }
               }
@@ -222,17 +194,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ea43cb04562f8fee",
+  "active": "af5b5b7e1bd2deff",
   "lastOpenFiles": [
-    "Capture/Zizek/Reality of the Virtual.md",
     "Main/Social Dimension of Psychoanalysis.md",
-    "Main/Superego.md",
-    "Main/Sexuality.md",
-    "Capture/Zupancic/Zupancic.md",
-    "Politics of pure difference.md",
-    "Real as pure difference.md",
-    "Infinite judgment.md",
-    "Main/Big Other.md",
-    "Main/Class Struggle.md"
+    "Main/State.md",
+    "Main/Analysis.md",
+    "Main/Subject.md",
+    "Main/Capital.md",
+    "Main/Capitalism.md",
+    "Main/Causality.md",
+    "Main/Centralism.md",
+    "Main/Woman is the symptom of man.md",
+    "Main/Virtual.md"
   ]
 }

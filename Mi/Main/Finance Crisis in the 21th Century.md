@@ -11,10 +11,10 @@ Financialization has changed capitalism, it is no longer useful to indulge in cl
 	- Planetary new deal would depress asset prices, which would collapse corporations who survive on cheap loans on collateral kept high by asset prices (central banks).
 
 2008 Housing crisis, people start fleeing their property. Strong image for art about the economy.[^2]
-- Kaçkun: Osmanlı'da çiftçinin 
+- Kaçkun: Osmanlı'da çiftçinin tarlasını terk etmesi
 
 ---
 # References
 
-[^1]: [[Varoufakis]], [[Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever]]
+[^1]: [[Varoufakis - 2008 & 2020 The Combination That Changed Capitalism Forever]]
 [^2]: [[Marx - Eisenstein - Das Kapital Part 1 (2008)]]

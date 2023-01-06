@@ -15,4 +15,4 @@ The cut between inside and outside, between affirmation and negation, produces t
 ---
 # References
 
-[^1]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Not-Mother On Freud's Verneinung]]

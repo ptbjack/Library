@@ -20,4 +20,4 @@ Navel = Lacanian ‘object a’[^1]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]

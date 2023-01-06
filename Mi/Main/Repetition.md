@@ -12,4 +12,4 @@ What Hegel can't think: [[Kierkegaard]] and [[Freud]], non-productive repetition
 ---
 # References
 
-[^1]: [[Zizek]] [[Negativity in Hegel and Freud]]
+[^1]: [[Negativity in Hegel and Freud]]

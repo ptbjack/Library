@@ -11,5 +11,5 @@ Reflexive registration in symptom: "I had a good time", I register my truth symb
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Zizek]], [[Negativity in Hegel and Freud]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Negativity in Hegel and Freud]]

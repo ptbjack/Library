@@ -10,4 +10,4 @@ Tags:
 ---
 # References
 
-[^1]: [[Zizek]], [[Negativity in Hegel and Freud]]
+[^1]: [[Negativity in Hegel and Freud]]

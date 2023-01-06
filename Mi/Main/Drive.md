@@ -33,6 +33,6 @@ Human vs animal;
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
-[^2]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^3]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]]
+[^1]: [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^2]: [[Why Psychoanalysis#The object of freedom]]
+[^3]: [[Why Psychoanalysis#Some (un)timely observations]]

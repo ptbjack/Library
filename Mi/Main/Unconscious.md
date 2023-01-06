@@ -22,6 +22,9 @@ The unconscious of the Other is 'sacrificed' in the constitution of the subject'
 Third dimension of the unconscious. Lacan: the status of the unconscious is not ontic but ethical.[^3]
 - Ontically, it is elusive. It is not an alternative reality into which we could translate the slips and symptoms of our reality.
 - We circumscribe it in a temporal structure.
+- Third object is neither positive or negative ([[Kant]] - transcendental object is an empty form (x));[^5]
+	- [[Popper]]'s theory of falsification-- science as moving away from a current theory.
+	- [[Darwin]] - moving away, evolution is shocking because humans are not the end-goal.
 
 [[Hegel]] vs [[Freud]]:[^4]
 - Hegel: Sense perception, "Now": unconscious is the universal form opposed to the particular content of my conscious thought. (You don't see the formal aspect i.e. the inner necessity of the passage from one figure of consciousness to the other)
@@ -31,7 +34,8 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 ---
 # References
 
-[^1]: [[Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
-[^2]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
-[^4]: [[Zizek]], [[Negativity in Hegel and Freud]]
+[^1]: [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^2]: [[Why Psychoanalysis#The object of freedom]]
+[^3]: [[Not-Mother On Freud's Verneinung]]
+[^4]: [[Negativity in Hegel and Freud]]
+[^5]: [[Tool-Being in the Making Rebirth of the Object]]

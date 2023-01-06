@@ -17,6 +17,6 @@ Tags:
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#A concept of an ontological impasse]]
-[^2]: [[Capture/Zupancic/Zupancic]], [[What is Sex#Introduction]]
+[^1]: [[Why Psychoanalysis#A concept of an ontological impasse]]
+[^2]: [[What is Sex#Introduction]]
 [^3]: [[Marx - Eisenstein - Das Kapital Part 1 (2008)]]

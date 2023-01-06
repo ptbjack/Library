@@ -33,6 +33,6 @@ Liberal consensus is breaking down.[^3]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Stand Up for Comedy]]
-[^2]: [[İnsel]], [[Erdoğanizm Muhafazakar Devrimci midir]]
-[^3]: [[Zizek]], [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]
+[^1]: [[Stand Up for Comedy]]
+[^2]: [[Erdoğanizm Muhafazakar Devrimci midir]]
+[^3]: [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]

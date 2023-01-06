@@ -10,4 +10,4 @@
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Lacan and the 'lamella']]
+[^1]: [[Why Psychoanalysis#Lacan and the 'lamella']]

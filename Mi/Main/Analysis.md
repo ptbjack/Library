@@ -18,9 +18,17 @@ Analysis stumbles against the subject of the [[Drive]] that binds the self and t
 The end of analysis would be abandoning the thing in itself while preserving the gap that separates IT from the phenomenal reality, articulating this gap as a function of an immanent transcendence.[^3]
 - [[Constitution of Reality]]
 
+Psychoanalysis: today, you feel guilty if you cannot enjoy.[^4]
+* Double function of psychoanalysis:
+    * (1) Badiou: learn to become a pitiless censor of yourself. Opening up a space in which you are allowed not to enjoy.
+    * (2) reinventing utopia: not exercise in free imagination.
+        * Immediately enacted, when there is no other way.
+        * Doing what appears impossible.
+        * Practicing utopias.
 ---
 # References
 
-[^1]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Zupancic]], [[Why Psychoanalysis#Some (un)timely observations]]
-[^3]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Why Psychoanalysis#Some (un)timely observations]]
+[^3]: [[Not-Mother On Freud's Verneinung]]
+[^4]: [[Reality of the Virtual]]

@@ -13,4 +13,4 @@ Economists, philanthropists, humanitarians desire to redress social grievances i
 ---
 # References
 
-[^1]: [[Capture/Marx/Marx]], [[The Communist Manifesto#2. Conservative, or Bourgeois, Socialism]]
+[^1]: [[The Communist Manifesto#2. Conservative, or Bourgeois, Socialism]]

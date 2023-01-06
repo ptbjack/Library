@@ -44,6 +44,6 @@ difference is what they do with individual/social repressions [^1]
 ---
 # References
 
-[^1]: [[Capture/Zupancic/Zupancic]] [[Stand Up for Comedy]]
+[^1]: [[Stand Up for Comedy]]
 [^2]: https://youtu.be/5I2dhXdwfX0
-[^3]: [[Capture/Zupancic/Zupancic]], [[Why Psychoanalysis#Intervention 3]]
+[^3]: [[Why Psychoanalysis#Intervention 3]]

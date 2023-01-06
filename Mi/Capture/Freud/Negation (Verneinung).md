@@ -1,6 +1,6 @@
 Author: [[Freud]]
 Date: 1925
-Status: #cogito 
+Status: #sum 
 
 Negation: "You ask who this person in the dream can be. It's not my mother".
 * Rejection of an idea that has just come up by projection.

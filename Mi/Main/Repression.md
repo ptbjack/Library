@@ -20,5 +20,5 @@ Freud's patient who says "It is not mother"; unconscious is in the censorship (f
 ---
 # References
 
-[^1]: [[Zupancic]], [[Why Psychoanalysis#The object of freedom]]
-[^2]: [[Zupancic]], [[Not-Mother On Freud's Verneinung]]
+[^1]: [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[Not-Mother On Freud's Verneinung]]
