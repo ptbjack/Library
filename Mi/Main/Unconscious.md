@@ -4,6 +4,7 @@ Status:
 Tags: 
 
 The unconscious is not a subjective distortion of the objective world, it is an indication of a fundamental inconsistency of the objective world itself, which allows for and generates its own distortions.[^1]
+- Unconscious is the form of existence of an ontological negativity pertaining to sexuality (“there is no sexual relation”).[^7]
 
 **‘Unconscious is outside’**: constitutive gap in the Other is the condition of possibility of the subject’s ‘own’ repressions.[^1]
 - Repression fills in the gaps of (objective) reality.
@@ -32,6 +33,7 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 - Freud, particular lateral connections, associations.
 	- Form: pregnant woman's ambiguous dream signals that the father of the baby is unclear.
 
+
 ---
 # References
 
@@ -41,3 +43,4 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 [^4]: [[Negativity in Hegel and Freud]]
 [^5]: [[Tool-Being in the Making Rebirth of the Object]]
 [^6]: [[What is Sex#WHERE DO ADULTS COME FROM?]]
+[^7]: [[What is Sex#CHRISTIANITY AND POLYMORPHOUS PERVERSITY]]

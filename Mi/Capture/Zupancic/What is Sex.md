@@ -91,3 +91,58 @@ The unconscious starts with the repression as the signifying form pertaining to 
 There is something about sexuality that appears only as repressed, something that registers in reality only in the form of repression (not as something that is, then repressed)
 
 Much too simple opposition between the “subversive” chaotic multiplicity of the drives and “normative sexuality”. (progressive psychoanalytic explanation)
+## CHRISTIANITY AND POLYMORPHOUS PERVERSITY
+
+Common perception: cultural normativity promotes heterosexual intercourse and bans/represses drive sexuality (seen as perverse, asocial)
+- Really? Christianity:
+	- Christ is valued for his body, the body is the means by which communion in his presence is incorporation -oral drive. Its content has nothing to do with copulation.
+	- Everything is exhibition of the body evoking jouissance without copulation.
+	- There is nothing asocial in partial drives: they are the very stuff of communion.
+	- Something disruptive at stake in “copulation”.
+	- Christianity doesn’t need copulation. Even the “purest” sort of procreative sexual copulation is connected with sin.
+		- St Augustine: sexuality is not the original sin (disobedience when eating from the tree of knowledge), it is the punishment for it, locus of its perpetuation. It is problematic enough to be seen as a punishment, a curse.
+	- Procreative intercourse is banned from the religious imaginary
+	- Stories of martyrdom are full of partial objects (Saint Agatha’s cut-off breasts).
+	- In its libidinal aspect the Christian religion massively relies on what belongs to the register of “infantile sexuality”.
+	- Pure enjoyment, “enjoyment for the sake of enjoyment,” is not banned. What is banned, or repressed, is its link to sexuality.
+- Strong social pressure put on “natural sexuality” to function as the norm is there to hide an abyssal negativity of natural sexuality itself, more than to keep the supposedly disruptive partial drives away.
+	- Nature lacks something in order to be Nature (our Other) in the first place. Culture is not something that denatures, splits natural sexuality; it is being generated at the very locus where something in nature (as sexual nature) is lacking.
+
+Claim: there is no sexual instinct, no knowledge inherent to sexuality which would be able to reliably guide it.
+- In the usual perspective; this lack of sexual instinct is perceived as something specifically human, induced by the human constitution (and the following culture).
+	- Humanity as a deviation from Nature, from the Animal.
+- Another perspective; humanity as that point of Nature where its lack of “knowledge” (of sexual law) acquires a singular epistemic form, the point of a specific articulation of Nature’s own inherent negativity.
+	- What is the difference between the human animal and other (sexual) animals?
+		- Human sexuality is the point at which the impossibility (ontological negativity) pertaining to the sexual relation appears as such, “registers” in reality as its part. It registers in the singular form of the unconscious.
+		- Fundamental lack of knowledge, difference between two ways of not knowing:
+			- Animals do not know that they do not know.
+			- The human animal knows that it doesn’t know.
+				- They are not simply not conscious of it, they are unconscious of it.
+				- It involves not knowing that we know… that we don’t know.
+					- Lacan: unconscious knowledge is a knowledge that does not know itself.
+					- Unconscious is the form of existence of an ontological negativity pertaining to sexuality (“there is no sexual relation”).
+
+What is being banned in Christianity?
+- The ontological negativity of sexuation and sexuality as such.
+- What is being banned is not the Signifier of the sexual (or its Image), but the (unconscious) knowledge of the nonexistence of such a Signifier.
+
+What did Adam and Eve get to know when they ate from the tree of knowledge?
+- Signifying structure of knowledge as such, the gap of the unconscious.
+- The gap distinguishes knowledge from information or data.
+- They were transmitted the gap of the Urverdrangung as constitutive of knowledge.
+- When they ate, the result was an affect; they found the sight of their naked bodies shameful.
+	- Shame is ontological: appears at the place of the lacking signifier (-1), because there is no signifier appears there.
+
+Bible refers to sexual intercourse as “knowing the other”.
+- “Knowing the other in the biblical sense” is to engage with the point in the Other were knowledge is lacking.
+	- Sight of naked bodies is “shameful” because they fail to convey the sexual relation.
+	- Sexuality on the level of the imaginary; we can only see bodies enjoying parts of other bodies.
+
+The norm emerges at the point of this lack in representation; the norm takes the place of the image that “one has never seen”, that of a body completely wrapping itself around the Other’s body.
+- The fantasy is sustained by the imposition of the norm, sustaining the norm in turn: the fantasy of sexual relation.
+
+Non-relation is not the absence of relation, it is a real, the Real.
+- The sexual relation of fantasy does not exist, the reality of partial drives and fleeting pleasures is not the ultimate raw reality, all there is.
+- The lack of sexual relation is real in the sense that as lack of negativity, it is built into what is there, determining its logic and structure in an important way.
+	- False opposition between full positivity of the drives and the negativity at work in sexuality.
+- The fantasy and imperative of the relation comes from within the very structuring of the drives.

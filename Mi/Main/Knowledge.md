@@ -1,4 +1,4 @@
-[[Absolute knowledge]]
+[[Unconscious Knowledge]]
 
 Two kinds of knowledge: what its made of (undermining) and what it does (overmining)[^1]
 - Knowledge does not exhaust our cognition of an object.
