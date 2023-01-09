@@ -9,10 +9,12 @@ The cut between inside and outside, between affirmation and negation, produces t
 - The question to be asked is what is in the mother herself that enables her repression (the point of impossibility that determines her in her structural reality).
 - Transcendental constitution of reality qua Freud: "speculative" subtraction of something that was never "objectively" there, yet the hole involved in its absence functions as the armature of objective reality
 
-
+[[Sex]] is a concept that formulates a persisting contradiction of reality, this contradiction is involved in the very structuring of contradicting elements.[^2]
+- Sex is of ontological relevance, not as an ultimate reality, but as an inherent twist of reality.
 
 
 ---
 # References
 
 [^1]: [[Not-Mother On Freud's Verneinung]]
+[^2]: [[What is Sex#Introduction]]

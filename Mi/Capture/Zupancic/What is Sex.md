@@ -30,8 +30,26 @@ Althusser: Marx and psychoanalysis are situated within the conflict that they th
 - Scientific objectivity is not a supposed neutrality, which is a dissimulation (perpetuation) of a given antagonism.
 - In social conflict, “neutral” position is that of the ruling class, because it has achieved the status of the dominant ideology, strikes us as self-evident.
 	- Objectivity is capacity of theory to occupy a singular, specific point of view within the situation.
-- 
 - One cannot see everything from everywhere, some positions dissimulate the conflict, some reveal it.
 
 # It's getting strange here
 ## DID SOMEBODY SAY SEX?
+
+Freud: The Secret Passion (1962); Freud presents his theory of infantile sexuality, protest and shock ensues.
+- We think that this because of Victorian morals and that now we know sexuality can be openly talked about. No, Shalev and Yerushalmi (2009) study: psychoanalytic psychotherapists confuse sexuality and romantic relationships, some cannot listen to talk about sex comfortably.
+- Sexuality as defence against deeper issues about intimacy and self-identity
+
+Systematic reduction of the notion of sexuality to “sexual practices” as constituting “sexual intercourse” and surrounded by obligatory sexual innuendo (sexual meanings).
+
+For Freud, sexuality was the “deeper and more difficult issue” behind different sexual practices and meanings- inherently problematic, disruptive, rather than constructive of identities.
+Always problematic and ontologically uncertain.
+The sexual (constitutively deviational partial drives) is not the ultimate horizon of the “human” animal, or the anchor point of irreducible humanity, it is the operator of the inhuman, of dehumanization.
+The sexual is that which makes us subjects, opens the perspective of the universal in psychoanalysis.
+
+Contemporary psychotherapeutic take on sexuality:
+1. Diverging from the Freudian notion of sexuality, one reduces it to a description of empirical features related to certain kinds of practice.
+2. One dismissively discovers that sexuality is exactly what one has reduced it to; an overrated epiphenomenon.
+There is no room left for psychoanalysis because psychoanalysis sees the impossibility of full sexual satisfaction as a constitutive and integral part of unconscious sexuality as such.
+
+Sexual meaning is there to mask the reality of a more fundamental negativity at work in sexuality, to put up a screen that derives its efficacy from to the fact that it is itself a means of satisfaction -satisfaction through meaning, satisfaction in the production of sexual meaning. 
+The task of psychoanalysis is to deactivate this satisfaction, to restore sex in its dimension of the Real.
