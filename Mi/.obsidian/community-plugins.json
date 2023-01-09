@@ -1,5 +1,6 @@
 [
   "obsidian-admonition",
   "obsidian-footnotes",
-  "folder-note-plugin"
+  "folder-note-plugin",
+  "obsidian-git"
 ]
