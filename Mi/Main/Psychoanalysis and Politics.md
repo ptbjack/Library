@@ -15,6 +15,21 @@ That which is not in the sexual is the relation: [[Non-relation]]
 
 "The sexual is political", as in, a true emancipatory politics can be thought only on the ground of an "object-disoriented ontology": ontology that does not purse being qua being, but but the crack (the [[Real]], the antagonism) that haunts being from within.
 
+Sexuality as an immediate political problem.
+* Feminism: always been political movement.
+    * Depends on positing sexual difference as a political problem, and hence on situating it in the context of social antagonism and of emancipatory struggle.
+    * Doesn't try to affirm some other, female identity, starts from the fact that "women" were nonexistent in a political sense.
+        * Nonexistence functioned as a homogeneity of the political space, feminism transformed it into a split which concerns all.
+        * Split is not independently existing ontological divide (men vs women) but something that constitutes sexual difference as difference.
+            * Traditional division between masculine and feminine worlds does not see sexual difference as difference. Unity is not threatened by this "difference".
+    * Female identity sustains exclusion.
+        * ==Emancipatory politics begins with "loss of identity", which is good.==
+    - Capacity to inscribe the problem of division and difference into the world the homogeneity of which is based on exclusion.
+        * **Exclusion of the split as such, erasing of a social antagonism.**
+* Sexual difference is not that between different identities, but as an ontological impossibility (implied in sexuality) which opens up the space of the social (where identities are also generated).
+    * Ontologically determinative negativity, lost with its replacement with "gender differences."
+        * [[Copjec]]: **gender theory removed the sex from sex**: the sex of sexual difference dropped out when this term was replaced by gender.
+
 Emancipation is most often conceived in terms of freeing ourselves from the social non-relation, Lacan says the opposite: the aim to abolish the non-relation is the trademark of all social repression.[^2]
 * Oppressive societies: if there is to be a relation, women need to be such and such.
 	* Oppressive society forces the impossible.
