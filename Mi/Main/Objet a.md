@@ -15,9 +15,10 @@ Navel = Lacanian ‘object a’[^1]
 * If the Other is the symbolic coordinates that structure our word and provide its vocabulary, object a is an effect of the Other.
 * Object a is the point where the effect maintains an ‘open line’ with the symbolic structure that generates it so that the structure is dependent, ‘vulnerable’ to this object.
 
-
+Objet a is the objective counterpart of the [[Non-relation]][^2]
 
 ---
 # References
 
 [^1]: [[Why Psychoanalysis#The object of freedom]]
+[^2]: [[What is Sex#THE QUANDARY OF THE RELATION]]

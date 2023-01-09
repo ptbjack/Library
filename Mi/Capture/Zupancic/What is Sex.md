@@ -134,7 +134,7 @@ What did Adam and Eve get to know when they ate from the tree of knowledge?
 	- Shame is ontological: appears at the place of the lacking signifier (-1), because there is no signifier appears there.
 
 Bible refers to sexual intercourse as “knowing the other”.
-- “Knowing the other in the biblical sense” is to engage with the point in the Other were knowledge is lacking.
+- “Knowing the other in the biblical sense” is to engage with the point in the Other where knowledge is lacking.
 	- Sight of naked bodies is “shameful” because they fail to convey the sexual relation.
 	- Sexuality on the level of the imaginary; we can only see bodies enjoying parts of other bodies.
 
@@ -146,3 +146,129 @@ Non-relation is not the absence of relation, it is a real, the Real.
 - The lack of sexual relation is real in the sense that as lack of negativity, it is built into what is there, determining its logic and structure in an important way.
 	- False opposition between full positivity of the drives and the negativity at work in sexuality.
 - The fantasy and imperative of the relation comes from within the very structuring of the drives.
+
+
+# ... and even stranger out there
+## THE QUANDARY OF THE RELATION
+
+Politics refers to what can be articulated around some fundamental social antagonism.
+
+Politics and psychoanalysis:
+
+* One tends to leave sexuality out
+* Or, Western ideology; combination of moral liberalism and political conservatism
+* Both mistaken:
+    * First dismisses sexuality as *something* that has a secondary, regional relevance.
+    * Second dismisses politics as *something* that is necessarily pathological.
+    * "Something", the Real is precisely not being, but its inherent impasse.
+
+Lacanian concept of the sexual does not provide the best description of a certain reality, since it does not have to do with sexual content. But, beyond sexual content and practices, the sexual is not a pure form, it refers to the absence of this form, as that which curves and defines the space of the sexual.
+
+Sex vs unicorns:
+
+* Unicorn, we have the idea, but it is nowhere to be found empirically.
+* Sex, we recognize empirically, but we don't have the Idea of sex (Plato), its essence.
+    * Presenting sex as low and "dirty" is already a response to a fundamental scandal - that we don't know what it is.
+    * There is sex only in something that does not work.
+    * Culture is not simply a mask/veil of the sexual, it is the mask for something in the sexual which "is not".
+        * Freud: civilization is sexually driven; it is driven by that which is not.
+
+That which is not in the sexual is the relation: *there is no sexual relation*.
+
+* We conclude hastily as: the ontologically stated non-relation is seen as the obstacle to the formation of any "successful" concrete, empirical relationship.
+* Lacan's point: it is only the inexistence of the relation that opens up the space for relationships and ties as we know them.
+    * Non-relation is the inherent logic of the relationships that are possible and existing.
+    * Biased by its constitutive negativity, this structure is always more or less than the sum of its elements.
+    * The impossible substance of enjoyment = object a, objective counterpart of the non-relation (non-relation as object).
+    * Object-disoriented ontology, ontology as "disoriented" by the object a.
+
+"The sexual is political", as in, a true emancipatory politics can be thought only on the ground of an "object-disoriented ontology": ontology that does not purse being qua being, but but the crack (the Real, the antagonism) that haunts being from within.
+## THE ANTI-SEXUS
+
+Andrei Platonov's text. In its introduction, Aaron Schuster:
+
+* Is sexuality to be liberated, or is humanity liberated from sexuality? Is sexuality the object of or the obstacle to emancipation?
+
+Emancipation is most often conceived in terms of freeing ourselves from the social non-relation, Lacan says the opposite: the aim to abolish the non-relation is the trademark of all social repression.
+* Oppressive societies: if there is to be a relation, women need to be such and such.
+	* Oppressive society forces the impossible.
+* Psychoanalysis: Woman does not exist.
+
+Contemporary "secular" form of social order and domination abandoned the idea of a harmonious totality to the advantage of the idea of a non-totalizable multiplicity of singularities forming a "democratic" network.
+
+Lacan: there is no neutrality of social being, social being is fundamentally biased.
+* Discursive space is biased by the missing element of the relation.
+* Neutral social being represses consequential negativity. It is another form of the narrative of the relation, it is accompanied by the idea of some kind of self-regulation.
+    * E.g. "the invisible hand of the market"
+
+Non-relation is a priory, appears with every empirical relation as inherent to its structure.
+* Choice is not between relation and non-relation, it is between different kinds of relations that are being formed in the discursive space curved by the non-relation.
+
+Anti-Sexus:
+
+* Presupposition:
+    * Sexuality is problematic because it involves the unpredictable Other. At the same time, sex stands in the way of good social relations.
+        * The Anti-Sexus can distillate the pure essence of sex, and provide "Other-free" enjoyment, at the same time create real, lasting bonds (pure spiritual friendship).
+* Two aims:
+    * To extract sex from the Other
+        * Pure substance of sex
+    * To exempt the Other from sex
+        * Sexless Other
+* The crucial obstacle to global human emancipation is humanity itself, to solve it, Anti-Sexus proposes to canalize the disruptive element.
+    * The disruptive element is not an element
+    * Anti-Sexus only provides to remove the Other from sex, not a method to remove sex from the Other.
+        * The Other is sexless if he or she is being masturbated most of the time.
+
+"To make oneself masturbated"- Lacan's conceptualization of the drive.
+
+* Instead of active or passive, something active in the heart of passivity, and vice versa.
+    * E.g. scopic drive, to make oneself seen.
+* The formula of the nonexistent "sexual drive".
+
+The Other and enjoyment like matryoshka:
+
+* Enjoyment is "in" the Other, but when we look "in" the enjoyment, there is also the Other "in" it.
+* Also the non-relation between the subject and the Other.
+    * If enjoyment is what disturbs this relation, it does so by implicating, placing them one in the other, not by coming between them (holding them apart).
+* All enjoyment already presupposes the Other, regardless of whether we "get it" with the help of the "real other" (another person) or not.
+* There is no enjoyment without the Other, because all enjoyment originates at the place of the Other (as the locus of the signifiers).
+    * Innermost enjoyment can only occur at that "extimate" place.
+    * Radical heterogeneity, antagonism between the signifier and enjoyment is not due to their heterogeneous origins, but to the fact that they originate at the same place.
+    * The Other is both the locus of the signifier and the locus of enjoyment.
+
+Relation between enjoyment and sexuality exposes the non-relation at the very heart of every relation.
+## THE INVISIBLE 'HANDJOB' OF THE MARKET
+
+The non-relation is at work in all forms of social bond.
+
+* In the field of love, the relation stops not being written from time to time.
+* Social relations of power- domination, exploitation, discrimination- are forms of exploitation of the non-relation.
+
+Abolishing the non-relation: emancipatory projects of 'new order', attempting to force the non-relation out of the social equation.
+
+Vs.
+
+Exploitation of the non-relation: 'narratives of the Relation', present a given form of social antagonism as the ultimate Relation, supposedly protecting us from the utter Chaos of the non-relation.
+
+* Social injustice → higher Justice
+* 
+* Actual, concrete exploitation is based on this appropriation of "privatization of the negative."
+* E.g. capitalism:
+    * Starts off with two revolutionary ideas: "the economic Relation does not exist" and "the non-relation could be very profitable".
+    * The non-relation is profitable, it is the ultimate source of growth and profit.
+    * Adam Smith:
+        * Non-relation is a fundamental state
+        * Individuals are driven by egotistic drives and the pursuit of self-interest, by ruthlessly pursuing one's own interest, one promotes the good of society as a whole much more efficiently that when one sets off to promote it directly.
+            * What we find at the very core of the most selfish individual enjoyment is actually the Other.
+        * Mistake: what we find at the core of this Other is a most "masturbatory self-enjoyment. Not only individuals never do what we think we are doing, the Other and its invisible hand also do not do only what they think they are doing.
+            * The invisible hand of the market is always already the invisible handjob of the market, putting most of the wealth decidedly out of common reach.
+    * Everybody is living better than two centuries ago, yet the price of this modern economic higher Relation is that the differences between the rich and poor are exponentially greater, fed by the non-relation in its "higher" form.
+    * In order for the non-relation to be profitable, it has to be built into the very mode of production.
+        * Marx: money → capital. What makes the products (labor power) also appears with them on the market as one of the products, objects for sale.
+        * Capitalism exploits the point of negativity of the social order, capitalists are not "stealing" from the workers, they are employing them to make the negativity/entropy of the system work for them. They are making themselves enriched.
+    * Labor power as commodity is the point that marks the constitutive negativity, gap, of this system: the point where one thing immediately falls into other (use value → source of value).
+        * Labor power has no use value, it leaps over to the source of value.
+        * "The Worker does not exist." What exists is the person whose work is sold and bought.
+            * A Worker that existed would actually be a slave.
+            * The proletariat is not simply one of the social classes, it names the point of the concrete constitutive negativity in capitalism.
+                * Not the sum of all workers, the concept names the symptomatic point of this system, its disavowed and exploited negativity.

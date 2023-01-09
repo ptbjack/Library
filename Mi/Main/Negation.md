@@ -29,6 +29,7 @@ The "Not" is condition of the unconscious, **Grund**.[^2]
 
 [[Dolar]]: Freud's *Ver* are not clear negations:
 - Verdrängung: repression but not quite (there is no pure repression, there is always the return of the repressed).
+	- Urverdrängung: primal repression
 - Verwerfung: foreclosure is repression without the return?
 - Verschiebung: displacement
 - Verdichtung: condensation

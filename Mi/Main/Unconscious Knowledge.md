@@ -17,6 +17,7 @@ Fundamental lack of knowledge in nature; two ways of not knowing:[^2]
 	- It involves not knowing that we know… that we don’t know.
 - Lacan: unconscious knowledge is a knowledge that does not know itself.
 
+[[Christian sexuality]]: adam and eve were transmitted the gap of the Urverdrangung (primal repression) as constitutive of knowledge.
 
 
 ---
