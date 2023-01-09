@@ -16,7 +16,7 @@ Work of analysis is separating the answer from the Other, subject realizes that 
 Analysis stumbles against the subject of the [[Drive]] that binds the self and the otherness in their very split.
 
 The end of analysis would be abandoning the thing in itself while preserving the gap that separates IT from the phenomenal reality, articulating this gap as a function of an immanent transcendence.[^3]
-- [[Constitution of Reality]]
+- [[Ontology]]
 
 Psychoanalysis: today, you feel guilty if you cannot enjoy.[^4]
 * Double function of psychoanalysis:
