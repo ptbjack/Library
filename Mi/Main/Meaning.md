@@ -13,6 +13,7 @@ The Other guarantees the consistency of the field of meaning, knows everything e
 * And makes possible [[disavowal]]: “I know very well but I nevertheless do.”
 * So, any change in our unconscious must be made in the Other.
 
+[[Sex]]ual meaning is there to mask the reality of a more fundamental negativity at work in sexuality, to put up a screen that derives its efficacy from to the fact that it is itself a means of satisfaction -satisfaction through meaning [[Jouis-sense]], satisfaction in the production of sexual meaning. 
 
 ---
 # References

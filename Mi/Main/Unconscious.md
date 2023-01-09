@@ -8,6 +8,7 @@ The unconscious is not a subjective distortion of the objective world, it is an 
 **‘Unconscious is outside’**: constitutive gap in the Other is the condition of possibility of the subject’s ‘own’ repressions.[^1]
 - Repression fills in the gaps of (objective) reality.
 - Subjective distortions are distortions at the place of something that is not.
+- Unconscious comes to us from the outside: The unconscious starts with [[repression]] as the signifying form pertaining to discursivity as such.[^6]
 
 Constitution of the unconscious as the refuse of interpretations of [[Enigmatic Messages]] (left out, repressed)?
 * Leftover is not identified with unconscious, unconscious is already an interpretation.
@@ -39,3 +40,4 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 [^3]: [[Not-Mother On Freud's Verneinung]]
 [^4]: [[Negativity in Hegel and Freud]]
 [^5]: [[Tool-Being in the Making Rebirth of the Object]]
+[^6]: [[What is Sex#WHERE DO ADULTS COME FROM?]]

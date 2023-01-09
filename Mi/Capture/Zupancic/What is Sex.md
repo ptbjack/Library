@@ -53,3 +53,41 @@ There is no room left for psychoanalysis because psychoanalysis sees the impossi
 
 Sexual meaning is there to mask the reality of a more fundamental negativity at work in sexuality, to put up a screen that derives its efficacy from to the fact that it is itself a means of satisfaction -satisfaction through meaning, satisfaction in the production of sexual meaning. 
 The task of psychoanalysis is to deactivate this satisfaction, to restore sex in its dimension of the Real.
+
+## WHERE DO ADULTS COME FROM?
+
+Paradoxical status of infantile sexuality:
+1. It exists
+2. It exists in the absence of both biological and symbolic frameworks for its existence.
+- Sensitivity of infantile sexuality is due to the proximity of it and adult sexuality. The “maturity” of sexual organs dramatically fails to make these organs function as exclusive sites of sexuality, or to produce a solid basis for clearly understanding and making sense of our sexuality.
+
+[[Laplance]]: drive sexuality (le sexual) vs instinctual sexuality (le sexuel)
+Le sexual: related to partial drives and their satisfaction, not innate, not object-based, not procreative.
+Le sexuel: hormonally based, more or less preprogrammed. Arrives after puberty, after drive or infantile sexuality.
+What is acquired through the drives precedes what is innate and instinctual.
+
+Freud: “genital sexual organization” is far from being primordial.
+- Involves unification of compound sexual drive.
+- Always a forced and artificial unification
+- Never fully achieved or accomplished
+- “Normal” human sexuality is a paradoxical, artificial naturalization of the originally denatured drives.
+- Human sexuality is “sexual” insofar as the unification at stake never really works, but allows for different partial drives to continue their circular, self-perpetuating activity.
+
+Problems with this narrative:
+- It advances from the supposedly original, free, and chaotic multiplicity of the drive to a forced sexual unification.
+- It puts the “humanly” sexual of sexuality on the side of the drives as opposed to reproductive sexuality.
+- It missed the point of encounter between enjoyment involved in the drives and sexuality
+- According to this narrative, adult sexuality practices are also in infantile sexuality, indicates the existence of some kind of continuity.
+- Leaves out the unconscious (ontological negativity).
+- According to this narrative, infantile enjoyment is sexual because it is contaminated with “enigmatic signifiers”, unconscious and sexually charged messages of adults.
+- Unconscious makes a pleasure “sexual”.
+- What sexualizes infantile pleasure is the encounter with the unconscious of adults, a minus (something that comes only as missing from its place in the Other).
+
+The unconscious starts with the repression as the signifying form pertaining to discursivity as such.
+- Unconscious comes to us from the outside.
+- Freud: actual repression is already based on repression; repression is constitutively redoubled.
+- Lacan links it to the signifying structure and to a “necessary fall of the first signifier”, which coincides with the constitution of the subject: “the subject is constituted around the Urverdrangung.”
+
+There is something about sexuality that appears only as repressed, something that registers in reality only in the form of repression (not as something that is, then repressed)
+
+Much too simple opposition between the “subversive” chaotic multiplicity of the drives and “normative sexuality”. (progressive psychoanalytic explanation)
