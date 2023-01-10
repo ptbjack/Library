@@ -546,3 +546,5 @@ Lacan tries to verbalize formulations - tying knots and throwing them at the aud
 
 Position of truth: taking one's place in the contradiction.
 * Analysis: contradiction does not simply disappear but the way it functions in the discourse structuring our reality changes radically. This happens as a result of our fully and actively engaging in the contradiction, taking our place in it.
+
+# 4 Object Disoriented Ontology

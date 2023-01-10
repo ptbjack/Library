@@ -14,9 +14,12 @@ Tags:
 - Unscientific character of Marxism: If you tell people what situation they are in, they will react unexpectedly. If monkeys understood behavioral science, behavioral science would have a big problem. [^3]
 - You don't need to show the truth of theory through using it, you have to force it.
 
+Position of truth: taking one's place in the contradiction.[^4]
+* [[Analysis]]: contradiction does not simply disappear but the way it functions in the discourse structuring our reality changes radically. This happens as a result of our fully and actively engaging in the contradiction, taking our place in it.
 ---
 # References
 
 [^1]: [[Why Psychoanalysis#A concept of an ontological impasse]]
 [^2]: [[What is Sex#Introduction]]
 [^3]: [[Marx - Eisenstein - Das Kapital Part 1 (2008)]]
+[^4]: [[What is Sex#JE TE M'ATHEME... MOI NON PLUS]]

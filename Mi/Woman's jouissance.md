@@ -10,6 +10,9 @@ S(Ⱥ) : enjoyment appearing at the place of the gap of the non-emergence of one 
 * _Woman's jouissance is the signifier of the lack of knowledge (in the Other); marks the point where the Other does not know._
 * "Feminine jouissance" is not an obstacle to the sexual relation, but a symptom of its nonexistence.
 	* [[Non-relation]]
+
+[[Ethics of the Real]]: Sygne's tick
+
 ---
 # References
 

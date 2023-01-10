@@ -14,8 +14,13 @@ Tags:
 
 [[Politics of pure difference]]
 
-
+[[Badiou]]: Lacan is wrong in thinking that we cannot speak about the Real and that there is no truth about the real.[^2]
+* But, [[Lacan]]: we cannot speak about the Real because speech is too close to it, because it can never fully escape the Real, but holds onto it.
+    * The Real is the inherent contradiction of speech.
+* Paradox indicates that language cannot be neatly separated from the Real (the impossibility of saying it all).
+* The place/position of truth is the point where speech "slips," "lapses" int the Real that it tries to articulate.
 ---
 # References
 
 [^1]: [[Reality of the Virtual]]
+[^2]: [[What is Sex#JE TE M'ATHEME... MOI NON PLUS]]

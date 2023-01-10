@@ -43,7 +43,6 @@ Emancipation is most often conceived in terms of freeing ourselves from the soci
 	    * E.g. "the invisible hand of the market"	
 	 - ==Choice is not between relation and non-relation, it is between different kinds of relations that are being formed in the discursive space curved by the non-relation.==
 
-
 ---
 # References
 

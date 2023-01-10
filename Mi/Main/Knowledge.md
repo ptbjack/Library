@@ -14,6 +14,7 @@ Getting at a thing indirectly: aesthetics (artist calls attention to the third o
 	- Metaphor isn't reversible (the subject cannot switch)
 		- metaphor cannot be too close or too far to being convincing (?) (pen is a pencil is not aesthetically pleasing mostly)
 	- Non-literal connection.
+- [[Sophistry]]
 
 ---
 # References

@@ -35,7 +35,7 @@ Like [[Kant]]'s [[antinomies of reason]]; difference or contradiction does not e
     * [[Not-all]]: the nonexistence of the Other is itself inscribed into the Other.
         * [[Unconscious knowledge]]
         * Barred Other is not simply lacking other, but the Other the inconsistency of which is inscribed in it, has a marker in it.
-        * *S(Ⱥ): [[Feminine jouissance]]
+        * *S(Ⱥ): [[Woman's jouissance]]
     * Woman also has relation with the signifier of castration *ϕ: *since the woman has a relationship with *S(Ⱥ)*, she is redoubled, not-whole, since she can also have a relation with *ϕ.*
         * Relation with the signifier *ϕ *is that on which existence is founded for any speaking being.
         * Relation with *S(Ⱥ) *puts us on the path of "ex-sistence".

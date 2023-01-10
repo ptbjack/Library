@@ -10,6 +10,7 @@ The unconscious is not a subjective distortion of the objective world, it is an 
 - Repression fills in the gaps of (objective) reality.
 - Subjective distortions are distortions at the place of something that is not.
 - Unconscious comes to us from the outside: The unconscious starts with [[repression]] as the signifying form pertaining to discursivity as such.[^6]
+- [[With-without]]: With-out is the formula of the unconscious, of the form of the unconscious.[^8]
 
 Constitution of the unconscious as the refuse of interpretations of [[Enigmatic Messages]] (left out, repressed)?
 * Leftover is not identified with unconscious, unconscious is already an interpretation.
@@ -44,3 +45,4 @@ Third dimension of the unconscious. Lacan: the status of the unconscious is not 
 [^5]: [[Tool-Being in the Making Rebirth of the Object]]
 [^6]: [[What is Sex#WHERE DO ADULTS COME FROM?]]
 [^7]: [[What is Sex#CHRISTIANITY AND POLYMORPHOUS PERVERSITY]]
+[^8]: [[What is Sex#SEXUAL DIVISION, A PROBLEM IN ONTOLOGY]]
