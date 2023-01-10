@@ -548,3 +548,398 @@ Position of truth: taking one's place in the contradiction.
 * Analysis: contradiction does not simply disappear but the way it functions in the discourse structuring our reality changes radically. This happens as a result of our fully and actively engaging in the contradiction, taking our place in it.
 
 # 4 Object Disoriented Ontology
+## REALISM IN PSYCHOANALYSIS
+
+Meillassoux (*Apres la finitude*): post-Cartesian philosophy rejected the possibility for us to have any access to being outside of its correlation to thinking.
+* We are never dealing with an object in itself.
+* There is no subject that is not always-already in a relationship with an object.
+* The relation precedes any object or subject, the relation is prior to the terms it relates.
+* All contemporary philosophies are variations on philosophies of *correlation*.
+* The "co" is the grammatical particle that dominates modern philosophy, its veritable "chemical formula".
+
+Inadequacy of correlationism is revealed when it is confronted with "ancestral statements", statements produced by experimental science concerning events that occurred prior to the emergence of life and of consciousness (e.g. "the Earth was formed 4.56 billion years ago").
+* It seems as if science speaks of the Real in itself, whereas in philosophy this kind of discourse is meaningless.
+* Meillassoux: certain scientific statements escape its "horizon of sense", there is something wrong with philosophy. In order to ensure the continuation of metaphysics, it has sacrificed the Real in its absolute sense.
+
+Malabou: "cerebral unconscious" instead of "libidinal unconscious", attempt to reduce the gap between the organic and the subject via finding the organic causes of the subject.
+
+Meillassoux: reduces the gap by preserving a certain gap between being and its mathematization.
+* Realism of the correlate of the universals, or, the referent. (statement is ideal, the referent is real)
+
+
+"The great Outside" is a fantasy, a screen that conceals the fact that the discursive reality is itself leaking, contradictory, and entangled with the Real, as its irreducible other side.
+* The great Outside is the fantasy that conceals the Real that is already right here.
+
+
+Meillassoux: the joint articulation of the real and the discursive. ("speculative" realism)
+* Possible mathematization of primary qualities
+* The absolute necessity of the contingent
+
+Psychoanalysis and modern science share common ground of the Real in its absolute dimension, but they have different ways of pursuing this Real.
+* Galieanism: modern notion of nature according to which nature is nothing other than the empirical object of science.
+    * The revolution of Galilean science consists in producing its object("nature") as its own objective correlate.
+* Modern science produces its object
+    * Creates new real(ity): the object of science is not "mediated" by its formulas, it is indistinguishable from them, does not exist outside them, yet _*it is real (it has real consequences or consequences in the Real).*_
+        * The new Real that emerges is a Real in which _discourse has consequences_.	
+    * Shift of emphasis from a discursive study of the Real to the *consequences *of discourse in the Real
+    * The definition of the newly emerged reality
+        * Modern science creates a new space of the Real (Real as a new dimension of "natural" space"): physics is added to nature, with nature continuing to stay where it has always been.
+            * Discourse has real consequences.
+        * Nature keeps standing there as the Imaginary, as something irrelevant.
+    * The problem of materialism
+        * True materialism can only be dialectical materialism, grounded in the notion of conflict or contradiction, of split, of the "parallax of the Real" produced in it.
+        * The fundamental axiom of materialism is not "matter is all" but relates to the primacy of a cut.
+    * The fact that the discourse of science creates a space in which this discourse has real consequences (e.g. moon landing) means that it can produce something that not only becomes a part of reality, but also can change it.
+* Realism in science
+    * Lacan: science reduced 'nature' to a letter (reduction implies cut, substitution)
+        * Not representation; the letter doesn't represent nature, but replaces it with something that belongs to discourse.
+    * Meillassoux: the Real as a formalizable segment of a thing remaining, in the end, in the net of discourse.
+        * Scientific formula catches in its net a fragment of the thing that is in itself absolute.
+            * The Real is that portion of a substance that does not slip through the net of mathematizable science, but remains caught in it.
+    * Lacan: the Real is not guaranteed by the consistency of numbers, but by the "impossible", the limit of their consistency.
+        * The Real indicated by the fact that not all is possible.
+        * Binding the realism of consequences to the modality of the impossible: something has consequences if it cannot be anything (if it is impossible in one of its own segments).
+        * The Real constitutes a hole in semblance, has no reference but the impossible at which its deductions arrive.
+    * Lacan and ancestral statements
+        * Naturalist dude, self-effacing gesture of God
+        * Does science study only something which we have ourselves constituted as such, posited, or is this exteriority independent of us, and has it existed exactly as it is since long before us?
+            * Lacan: it is independent, yet it becomes such only at the very moment of its discursive "creation". With the emergence of the pure signifier, we get a physical reality independent of ourselves.
+                * Independence also gained for the time "before us".
+        * Ancient rocks are objective correlates of the emergence of a break in reality as a homogeneous continuum (the break of modern science).
+        * Dialectically materialist: the break implies a speculative identity of the absolute and of becoming. *Something can become absolute*.
+        * The absolute is both necessary and contingent: there is no absolute without a break/cut in which it is constituted as absolute.
+            * Meillassoux absolutizes contingency as the only necessity. (Logic of constitutive exception: all is contingent, except the necessity of this contingency)
+            * Lacan: necessary not-all: contradiction is the point of truth of the absolute necessity: the absolute is at the same time both necessary and contingent.
+* Science v psychoanalysis
+    * Lacan: science has no memory, it forgets a dimension of truth that psychoanalysis seriously puts to work.
+        * No memory of that out of which emerges the objective status of its enunciations.
+    * Radical discontinuity at the core of every significant scientific breakthrough, establishes the absolute status of its objects; the *subject is the name of this discontinuity.*
+
+## HUMAN ANIMAL
+
+Human animal based on double difference:
+* First, difference that differentiates one animal species from others.
+    * Inclusive; humans have a properly differentiated place within the animal kingdom
+* Human exception (human difference is different kind of difference), divide between ourselves as animals and ourselves as something else.
+    * E.g. body/spirit, the distinction of the second term is testified to by its ability to ignore or even turn actively against the first term, which binds us to animality.
+    * Animality in two ways:
+        * Figure of untamed excess
+            * Christianity invented autonomy of the excess and cast it as sin.
+            * Image of an unrestrained, excessive enjoyment.
+        * Figure of animality as lacking any (real) excess.
+            * Modern figure 
+            * Organic/symbolic system closed upon itself, unable to do something more than be an extension of "natural causality", not being ridden with some kind of excessive restlessness, being-toward-death (Heidegger), jouissance (Lacan).
+            * E.g. Kant
+                * Pathological actions are those of the "human animal".
+                * Ethical subject requires not only conforming to the moral law, but also the additional, excessive "only because of the law".
+                * "Human human" is on the side of the excess, including the excessiveness of the moral law itself, interrupting natural causality.
+    * Nietzsche: the problem is that humans are not half animals and half something else, they are half animals, full stop. There is nothing but the animal part, even this part is not "whole", lacks something. The superstructure of humanity is generated as a disguise, as clothing for this lack, for this failure to be fully animal.
+        * Humans are shameful sight as tame animals and need moral disguise.
+        * Man as a being the animal part of which is lacking something, and "humanity" as the dress to cover up this lack, missing part.
+            * Not a vulgar evolutionist notion of humanity as prosthesis, making up for a deficiency. Instead, inventing "humanity" on and around this void, without eliminating it or filling it out (as an artificial limb or organ would).
+    * Lacan: there is no animal, zero level of humanity ("human animal") which, left to itself, would function on a kind of autopilot of survival or self-preservation.
+        * The plus (what in human is more than animal) takes the place of the less (what in human is less than animal).
+        * Drives (vs instincts), conceptualization of deviations at work at the zero level of organic functions.
+            * Drive not completely separated from biological, organic needs, but cannot be simply reduced to them.
+            * Enjoyment: independency of the drives, which combines with different things, ideas and objects, satisfaction beyond need.
+* Heidegger's being-toward-death
+    * Status of death: opens up the metaphysical dimension proper.
+    * The space for the specific "immortality" in which human beings can eventually participate is opened up by man's unique relationship to his finitude and the possibility of death.
+    * Immortality is based on the specific mode of human finitude.
+* Lacan: the structural place occupied by death in Heidegger is the real of enjoyment, *jouissance*.
+    * The fact that we are situated within an unsought portion of enjoyment makes different attitudes toward death possible to begin with. Death as such does not involve the possibility of a "dramatic" relationship to itself; this relationship becomes "dramatic" only when *jouissance* intervenes.
+    * Enjoyment as "a disturbing relationship to one's body" refers to the fact that by contaminating the satisfaction of all the body's basic needs, enjoyment introduces in the supposed immediacy of living_ a crucial gap_, on account of which things can take a different course than what is supposed to be normal or natural.
+        * Enjoyment fundamentally modifies the nature of natural need, _deviations are man's nature_. 
+    * Surplus-enjoyment is not transgression.
+    * Enjoyment is suspended in sleep
+        * Dreamwork, smuggling enjoyment into a dream, which eventually disturbs us.
+    * *Death drive - undead*, life is not declination from death. If it is, there is further declination from declination: the declination of life drom life produces the "death drive" as something undead that haunts both life and death.
+
+With the positing of drive as that which constitutes the human exception, we lose something essential in the concept of the drive.
+* **Trieb** is not "instinct" as in "animal instincts", unborn survivalist autopilot aiming at self-preservation.
+    * Not (the) Animal
+* **Trieb** is not something completely different, we miss the point when we make it the carrier of the human exception.
+    * Not (the) Human
+* Topology of the drive has two ways to understand
+    * Standard reading: with humans the deviation from organic need is original, and it is this deviation as original that constitutes the human Difference, Exception.
+    * Radical reading: as a being of the drive, man is the point where nature's own inherent impossibility gets articulated as such.
+        * "Human difference" is what testifies to the fact that its Other (the Animal) does not exist.
+        * Chiesa: early vs late Lacan in terms of "animal sexuality"
+            * Early: key fits into keyhole, the Animal exists.
+            * Late: the supposed animal model of perfectly bi-univocal reproductive complementarity is a side effect of the "fantasy of the soul" through which we imaginarily "observe" the animal.
+        * Jouissance names something particularly human, it is a singularization of a general inconsistency at work in animal life. 
+            * Where as animal sexuality is simply inconsistent, jouissance is something like a set containing this inconsistency as its only element.
+        * Singling out occurs with the signifier and its logic.
+        * Humans are the question mark to the very notion of the animal as a consistent entity.
+            * Humans are the living proof that the Animal doesn't exist.
+
+The speaking being is neither part of nature, nor its exception, but its Real (the point of its own impossibility, impasse).
+* The "natural norm" is secondary to the "incomplete ontological constitution" of nature.
+* But, the incomplete ontological constitution is not synonymous with chaos.
+    * Nature is not chaotic, it is lawful, but this lawfulness is the very structuring of its own inner antagonism, contradiction, or "incompleteness".
+
+## DEATH DRIVE I: FREUD
+
+What Freud introduces as "death drive" (*Todestrieb*) is not what Zupancic and other Lacanians mean by it.
+
+* Freud: "instinct" to regain the supposed original homeostatic, tensionless state.
+* Zizek: death drive is the most radical tendency to maintain a state of tension, to avoid final "relaxation" in obtaining a state of full homeostasis. Death drive is the insistence of an organism on endlessly repeating the state of tension.
+* There is a logic from the first to the second on the ground of sexuality.
+
+The middle of "Beyond the Pleasure Principle":
+* Death drive as primary (first instinct is that of returning to inanimate matter, all life aims for death)
+* Life instincts (conservative instincts) are forces that fortify the detours from this fundamental drive.
+    * Secondary formations in respect to life's primary drive, the death drive.
+* Death drive names a kind of fundamental or ontological fatigue of life as such, it is the steady undercurrent of life.
+* Life is accidental, there is no will anywhere that wants to live: what we see as "vital forces" are instincts constituted in the process of reiteration of the accident called life.
+* There is no struggle of two wills called life forces and death forces, life is a circuitous route to death, and conservative instincts are the pavement of this route, they are indistinguishable from it.
+* Instincts of self-preservation do not change life's fundamental goal, they simply introduce a* temporality* into it.
+    * Mode of this temporality is *repetition*.
+* Life is not the other of death, it is something that happens to the inanimate. It is interruption, a gap appearing in the inanimate.
+    * Life gives a singular, separate form to an inherent gap on account of which the inanimate does not simply coincide with itself.
+    * Not only that the inanimate universe is indifferent to life (materialist reproach to correlationist view of reality), we are mere perversions, strange pleasures, of the inanimate itself.
+        * Life is a nightmare of the inanimate.
+        * Death drive is an "objective affect" of life
+
+The beginning of "Beyond the Pleasure Principle":
+* *Pleasure principle* refers to seeking relief from tension, to the lowering of tension in an attempt to reach a homeostatic state.
+    * It is a mental equivalent of what Freud later calls the fundamental tendency of all life to return to the inanimate.
+        * I.e. death drive = pleasure principle
+* *"Reality principle"* is like the detour of life instincts.
+* (Original conception of) Death drive is not what goes on "beyond the pleasure principle".
+
+"Sexual drives" are the only drives that break out of the circle of life and death as dominated by the pleasure principle and its fundamental aim to return to the inanimate.
+* They thrive on excitement and tension, and are related to the "endless" continuation of life.
+* They go out of their way to embrace some alterity, difference, the Other.
+    * Pleasure needs no Other, the Other is rather disturbing to it.
+* They do not go against the pleasure principle but seem to suspend it, invalidate it as a principle in the first place.
+* In life more than life.
+
+Dualistic view, opposition between Eros and Thanatos.
+* *Todestriebe* is fatigue as life's fundamental and objective affect
+* Sexual drives split with this logic, they are detours that make an actual difference, produce something "new", establish potential immortality (of the species).
+* Dualism of the drives is actually the other side of conceiving libido as a "neutral" desexualized substance (Jung).
+    * Freud: the sexual is not a principle to be properly described and circumscribed, it is the very impossibility of its own circumscription or delimitation.
+
+The end of "Beyond the Pleasure Principle": Monism of antagonism, contradiction, or split: there are only sexual drives (all drives are sexual).
+* Only sexual drives *drive* us in any meaningful sense of the word (to elsewhere than a return to an earlier homeostatic stage).
+* Vs. Fatigue, "magnetism of the inanimate".
+* With sexual drives, death is inherent to life, conditioning its perpetuation.
+    * Death of the individual is fundamental to sex (the survival of the species means that each individual is transitory and dies).
+
+Freud (there are only sexual drives) → Lacan (every drive is virtually a death drive): missing link between the two is that death is what lurks in the midst of sexual drives as a negative magnitude or a minus implied in them.
+* Instincts (conservative drives) repeat acquired/established paths of life (detours on the path to death).
+* Death drive is repetition within repetition; repetition of some (partial) satisfaction accidentally produced within conservative repetition.
+    * Surplus satisfaction/excitation that occurs in the course of the functioning and satisfaction of different organic functions.
+    * Surplus is internal cause of tension, the drive originating in this surplus aims at repeating this tension.
+    * Instead of satisfaction producing an appeasement of a surplus excitation, satisfaction generates further excitation.
+* Surplus satisfaction itself does not qualify as drive:
+    * Animals also experience surplus satisfaction, yet for it to function as partial object, this satisfaction must start to function as objective embodiment of the negativity or gap involved in the signifying edifice of being.
+* Death drive refers to an active split or declination within every drive, it is not one among the partial drives.
+    * Split inherent to the drives as such, not the same as the split of the drive from organic functions.
+    * Drive as purely disruptive pulsating negativity that gives partial surplus satisfactions their singular rhythm.
+        * Like the difference between object a as marking a negativity as such and all forms of objects a, which are merely its representatives.
+        * Double object a: it is a surplus satisfaction as sticking to the void, it is the void and its "crust". The real object of the drive is not simply surplus satisfaction but this negativity that "sticks" to it and is repeated by it.
+        * Two splits:
+            * First, split involved in the surplus satisfaction produced in the course of satisfying organic needs and function.
+                * Repetition produces surplus, unexpected satisfaction, which becomes the drive of another repetition, repetition within repetition, repeating this satisfaction.
+                * E.g. gluttony
+                * Object-food, and there is also satisfaction as object.
+            * Why can surplus satisfaction reverse the order of things?
+                * The structure of the drive implies a negativity around which it circulates and which relates drive to the primal repression: inbuilt negativity -negativity transmitted with the "positive" ontological order of being.
+                * If the drive wants us to repeat the surplus satisfaction, it is not because all it wants is to enjoy.
+* Drive does not want us to enjoy, superego wants us to enjoy and reduces the drive to the issue of satisfaction, actively blocking access to the negativity that drives it.
+    * Satisfaction (for the sake of satisfaction) is not the goal of the drive, but its means. 
+    * Death drive does not only want us to enjoy, it wants only to repeat this negativity, the gap in the order of being, even if this means to enjoy.
+    * Enjoyment is the means, the "aim" is the repetition of the lack of being in the very midst of being.
+
+Sexuality proper involves a step in which the "minus", the negativity involved in sexuation and sexual reproduction gets a positive existence in partial objects as involved in the topology of the drive. 
+* Partial objects are not just "satisfactions as objects", they are also figures or representatives of that negativity.
+    * Sexuation → sexuality
+* Common gap justifies the fact that different and polymorphous partial satisfactions are called sexual, they are "biased" by the negativity they have in common; this negativity gives them their curve.
+* Double loop of the drive:
+![[loop.png]]
+
+* Death drive can eventually shift life's fundamental goal of returning to the inanimate.
+    * Establishes the ways of returning to inorganic existence other than those which are immanent in the organism itself.
+    * Death drive is what makes it possible for us to die differently.
+
+## TRAUMA OUTSIDE EXPERIENCE
+
+The question remains as to the compulsion to repeat some particularly traumatic incidents.
+
+If one starts from the primary character of the pleasure principle (pleasure= lowering of tension), why would somebody be compelled to repeat a distinctly unpleasant experience?
+* Freud: repetition appears at the place of remembering; one repeats something one cannot remember.
+    * What the compulsion to repeat repeats is not some traumatic experience, but something which could never register as an experience to begin with.
+    * Trauma is real, but not experienced: it is outside the horizon of experience (it is constitutive of it).
+        * Laplanche: reality of the enigmatic message.
+        * Only registered as an interruption of consciousness.
+        * Negativity that comes as built into the conditions of experience.
+            * Objectivity of trauma (independence from 'psychic life') is the condition of us having a 'psychic life' (and experiencing something as "traumatic"
+* Malabou: trauma is not real, it is psychologically mediated.
+    * Zupancic: mediation comes from the outside. It is not a screen separating us from the Real, but is itself partaking in ths Real.
+        * Mediation is the trauma (trauma as real).
+* Brassier: the separation of organic inside and inorganic outside is achieved at the price of the death of part of the primitive organism itself.
+    * Death drive is the trace of the scission (primordial death): the scission cannot be bound because it remains the unbindable excess that makes binding possible.
+    * Third element, death, preconditions the opposition of life and death and is presupposed by it.
+    * "Life wants to return to the inanimate": life has nowhere to return to except that with the lack of which it has come to life.
+* Repetition is effort to bind excess of excitation released by the traumatic breaching of defenses 'beyond the pleasure principle' when the usual mechanisms of defense (including repression) no longer work.
+    * Anxiety is still a defense
+* Death drive is an extension of the pleasure principle qua lowering of tension, just as repetition is?
+    * Brassier: the excess of the death drive is the trace of the aboriginal trauma prior to experience, repetition (of empirically traumatic experience) is a means of awakening anxiety in order to master and "bind" the excess.
+
+## DEATH DRIVE II: LACAN AND DELEUZE
+
+Lacan and Deleuze reject the primacy of the pleasure principle, and the possibility of relating the death drive to a homeostatic tendency.
+* Deleuze affirms the primacy of the death drive.
+    * Death drive is transcendental principle, pleasure principle is only psychological part of the logic of appearing of the death drive.
+* Lacan: "every drive is virtually a death drive"
+    * Freud's metaphysics is from Aristotle; lowering of tension is the ethics of Aristotle.
+
+Death drive is not some obscure will to aggression, destruction, or death.
+* Deleuze: death drive linked to repetition, which is the place of original *affirmation*.
+    * Affirmation: selective, not a simple opposite of negativity.
+* Lacan: lamella - death drive to 'indestructible life'.
+
+The excess of excitation does not exist independently of repetition, it exists in and through repetition itself.
+* Split at the heart of repetition
+* Deleuze: repetition is two-sided: it does not only repeat something (object), it also repeats difference as such (*pure difference*)
+    * There is no first term which is repeated, there is no bare repetition which may be abstracted or inferred from the disguise itself.
+    * Repetition is symbolic: symbols or simulacra are the letter of repetition itself.
+    * Repetition as absolute beginning.
+    * Reversal of Freud: we do not repeat because we repress, we repress because we repeat.
+        * Two splits: the object of drive involves surplus satisfaction so it is different from the object of need. "Satisfaction as object" itself is a stand-in for a faceless negativity.
+    * Pure difference is this negativity, most affirmative, productive "force".
+    * *Crack (**felure**)*: fundamental, unifying negativity
+        * Heredity is the crack (rift or the hole)
+        * Central crack and instincts around it
+        * Lacan: each partial drive is a repetition of the crack, a repetition which constitutes this object as object.
+
+Unifying sexuality: sexuality unifies the drives as the crack around which they circulate and to which they keep returning.
+* Normativity's aim is not to unify or "tame" the original heterogeneity of partial drives, but to obfuscate and exploit this founding crack and its "productivity".
+* Lacan: "sexual identity" is a contradiction in terms.
+    * Copulation is out of place in human reality, to which it nevertheless provides sustenance with the fantasies by which that reality is constituted.
+* Deleuze: the "germen" (germ cells) is the crack, the very instance of *felure*.
+
+Deleuze: what drives repetition is not a failure, a lack. Repetition itself is both primary motivator and motor.
+* Repetition is singular negativity, and a site of affirmation. As original negativity, it is productive of what is there and what can be differentiated, compared, said to fail, etc.
+* Negativity becomes most positive force.
+
+Deleuze vs Lacan:
+* Negativity → most positive force
+    * Lacan: impossibility motivates repetition - non-being of what is to be repeated.
+        * Enjoyment is the only "being", "substance" of that which is ontologically not, of the missing signifier.
+        * Symptoms (signifying connections) are repetitions of original negativity, and its enjoyment-fueled representations related to the subject of the unconscious.
+        * Fundamental negativity as a third element in relation to the unbound excess and the signifiers.
+    * Deleuze: fundamental negativity is the pure movement of the unbound excess appearing with different signifying masks or "disguises"
+        * Tripartite topology is collapsed into a double movement of a One.
+        * Original negativity IS the positive, productive movement or force.
+        * Plane of immanence: the same thing is both disguising and disguised.
+        * Realized ontology: Difference: pure being qua being.
+        * Topological → dynamic:
+            * Topological non-coincidence of being and appearing is liquefied into Being as a pure movement of Difference.
+        * There is no Real here, it is ontologized.
+    * Deleuze: realism implies radical desubjectivation, Lacan: subjectivation is the instance of an irreducible Real.
+
+New materialisms follow Deleuze and try to escape the transcendental cage, getting out of the subject.
+* Lacan: if language was consistent ontological category, there would be no subject.
+* Materialism as realism: exposes the brute reality, the material truth or basis of things that seem to stand on their own.
+    * The reality minus the illusion which accompanies it and keeps transforming it into something quite different.
+    * Sublime vs gruesome: realism is on the side of gruesome.
+        * 1. the sobering effect of realist materialism points to a gap in realism itself: Reality "as such" appears as gruesome, it has to be perceived as more than it is: to be invested with subjective affect -repugnance, aversion, etc.
+            * In order to get to reality, a surplus is needed (or produced), a surplus which is not reducible to reality such as it is.
+        * 2. Opposition between "naked" reality and always-already subjectivized reality is false, not genuinely "materialist".
+    * If reality appears with an irreducible excess "over" itself, this excess indicates a split or contradiction in this reality itself.
+    * There is a reality that exists independently of the subject, the subject is precisely that which gives us access to reality independent of the subject.
+    * Lacan's materialism: the subject is the objective embodiment of reality's contradiction. The subjective position is not only a concrete and singular way in which things determine me, it is also the subjectivation of a paradox.
+        * The subject is situated at the juncture of the epistemological and ontological levels in the form of their joint negativity (lack of knowledge falls into a lack of being)
+        * Materialism is thinking which advances as thinking of contradictions.
+
+Deleuze vs Lacan:
+* Common: what repeats itself is "*one-plus*": something plus the surplus that invests and drives it.
+* Deleuze: the plus is identified as movement of absolute difference, the real of being.
+    * The repetition of the One-plus, driven by the "plus", differentiates the two elements (one and plus) and throws out the One to the benefit of Being as singularity of a pure movement.
+    * Repetition as inner differentiation of the Difference.
+    * Difference is the only and the original being, at the same time it needs to be realized, repeated and separated from the metaphysical and dialectical encumbrance that constitutes the history of Being and of its thought.
+    * Ethics replaced politics, claiming to carry out the task of politics better than politics. Deleuze: selection of difference based on repetition.
+* Lacan: the production of a new signifier that puts an end to repetition.
+    * The separation within the repeating entity (One-plus) is not the centrifugal-selective force of the repetition itself, it is a third term: S1, a new signifier.
+        * The One that is repeated is a One-plus, bound by enjoyment.
+        * Analysis produces a different, self-standing One: One as one alone.
+            * This One functions to give signifying support to the rift, the crack, implied by yet invisible in the deployment of differences and repeated with them.
+            * The new signifier names the difference that makes all the difference(s).
+                * Does not replace the "hole", it produces it as something that can work as an emancipatory weapon.
+            * Enjoyment is the means of production of the signifier that eventually kills it off: the signifier interposes itself between the signifying enjoyment and the hole/gap at the place of which the latter appears.
+    * Vs. Deleuze: the surplus is not in itself the real scene of emancipation, but the means of production of that which eventually realizes this emancipation: the tectonic shift does not take place at the level of this surplus, but thanks to the newly produced signifier.
+        * The placing of the subject at the level of enjoyment in talking enables the production of the new signifier from the perspective of which it is now possible to effect a separation at the heart of the One-plus involved in repetition.
+        * New signifier is *event* proper and it triggers a new subjectivation.
+        * By itself, drive does not work against repression. One cannot simply count on it to make the "right" selection.
+        * Not a force, only a letter can disentangle what exists only in entangled form, and eventually change this form itself.
+
+## BEING, EVENT, AND ITS CONSEQUENCES: LACAN AND BADIOU
+
+Politics always involves a reactivation of the gap.
+
+Connections between Lacan and Badiou:
+* Lacanian Real and Badiou's Event
+    * Lacan: the Real is the point of the internal impossibility of being: in order to speak of "being qua being", one has to amputate something in being that is not being.
+        * The law of the discourse on being-qua-being is a consequence of an impossibility with which it occurs.
+        * All being is discursive, but the discursive is non-all.
+        * Impossibility that pertains to being and not only to the Event.
+        * Discourse is implied in the gap.
+    * Badiou: ontology prohibits the Event.
+        * The prohibition of the Event is the "consequence of a law of the discourse on being-qua-being".
+        * Being-qua-being is pure inconsistent multiplicity.
+            * The discursive is only a presentation of this multiplicity, involving a "count-as-one".
+        * Excess takes place on the level of what is already counted-for-one, on the level of presentation, as the excess of the parts of a given multiple or set over its elements.
+
+Lacan vs Badiou: excess/surplus
+* Badiou: uncountable excess of the multiple beyond itself is the real of being, the "being of Being".
+    * Void of excess does not amount to a negativity, it suggests a desubstantialization of being.
+* Lacan: the "wandering excess" is not the implication of the multiple, but of the One-less, of the minus-one.
+    * Excess flourishes at the structural place of the minus one.
+    * The wandering excess cannot be the Real of being, but is its symptom.
+    * You can identify with the symptom, but not with the Real.
+        * Blocks romanticism of the Real.
+* Badiou reserves the proper name of void-set for being-qua-being, Lacan reserves it for the subject.
+* Badiou wants to assert the rarity of the subject, which suspends its occurrence from the event, from the intervention, and from the generic paths of fidelity.
+* Negativity:
+    * Badiou has no strong concept of negativity at the level of being: Being deploys itself as pure excess over itself.
+        * Pure being is inconsistent, but not ridden with any impossibility. Impossibility originates in its representation (prohibition of the Event).
+    * Lacan: pure excess is already a result of a minus-one, the gap that appears together with discourse.
+        * Subject is not only an effect of language, but of its breaking down, of its discontinuity.
+        * Event is possible because of the impossibilty inherent to being.
+* Enjoyment: 
+    * Badiou does not connect "wandering excess" to surplus-enjoyment. For him, enjoyment is irrelevant.
+    * Lacan: enjoyment is not irrelevant, it takes place at the point where something is lacking in the discursive.
+
+Lacan: being is a shifting repetition of the impossible (gap), a repetition of that which is not.
+* Para-ontology: being is collateral to its own impossibility, and not to the impossibility of the event.
+    * An Event is related to the point of impossibility of being (impossibility to be qua being).
+    * For Badiou, the interruption of being by an Event comes from "elsewhere".
+
+Lacanian Event: happens when something "stops not being written".
+* Disjunction of the necessary and the impossible.
+    * Repetition is a conjunction of the necessary and the impossible ("it does not stop not being written")
+    * Disjunction affirms being in its contingency.
+    * Love encounter
+* Pessimism: contingency moves to necessity where it doesn't stop being written.
+    * Badiou: fidelity is needed to avoid this.
+    * "New signifier" could build something on the basis of a love encounter.
+* Love encounter happens to us, involves surprise: "how surprising that you are you!"
+    * Rosset: passion vs real love
+        * Passion is morbid craving for an unreal (derealized) object.
+            * Involves enjoyment not in the object of passion, but in the passionate dieting itself.
+        * Real love wonders at the coincidence of the loved (desired) object with an existing object.
+            * A split, minimal difference is also involved in the real object,
+            * Split ad the coincidence appear at the same time.
+* New signifier would be capable of naming, sustaining, the minimal difference (contingency) on account of which the lover reminds me of himself.
+    * Minimal difference keeps impossibility from becoming necessity.
+    * E.g. nickname in love relationship: name that provides a signifier of the very disjunction of love object and existing object in a concrete love relationship.
+
+Problem is not that of too many words: it is the loss of the Real, loss of the capacity of naming that can have real effects, the (dis)junction between the necessary and the real.
+
+The turn to "real experience" diverts from the only way to touch something of the Real, which is the right word.
+* Word that name something about our reality for the first time, and hence make this something an object of the world, and of thought.
+* Not a correct description of a reality; it introduces a new reality
+    * E.g. "class struggle"

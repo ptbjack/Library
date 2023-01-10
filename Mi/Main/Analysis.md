@@ -28,7 +28,7 @@ Psychoanalysis: today, you feel guilty if you cannot enjoy.[^4]
         * Doing what appears impossible.
         * Practicing utopias.
 
-[[univocity vs equivocity]]:
+[[Univocity vs equivocity]]:
 - "I borrow my interventions from the analyst".
 	* Hegel: philosophical proceeding which concerns itself only with aims and results, is already beyond the thing, is not involved with it. This kind of knowing is preoccupied with itself.
 	* Only the analysand (unconscious) can produce the "right word." The analyst should be able to recognize it.

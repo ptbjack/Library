@@ -8,7 +8,7 @@ Knot: every term is reflected in the others.[^1]
 
 [[Imaginary]]
 [[Symbolic]]
-[[Real as pure difference]]
+[[Real]]
 
 
 ---

@@ -17,7 +17,7 @@ Big Other no longer has any hold on us in the guise of a concrete, ‘small’ o
 	* Freedom becomes abstract ‘freedom of choice’
 * Big Other is [[Virtual]].
 * Multitude is an effect of the inconsistency of the One itself.[^3]
-	* [[Real as pure difference]]
+	* [[Real]]
 ---
 # References
 
