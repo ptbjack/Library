@@ -16,6 +16,13 @@ Enjoyment is always-already social, linked to the Other: the Other guarantees th
 	    * Innermost enjoyment can only occur at that "extimate" place.
 	    * Radical heterogeneity, antagonism between the signifier and enjoyment is not due to their heterogeneous origins, but to the fact that they originate at the same place.
 	    * ==The Other is both the locus of the signifier and the locus of enjoyment.==
+
+Jouissance names something particularly human, it is a singularization of a general inconsistency at work in animal life. 
+* Where as animal sexuality is simply inconsistent, jouissance is something like a set containing this inconsistency as its only element.
+* Singling out occurs with the signifier and its logic.
+* Humans are the question mark to the very notion of the animal as a consistent entity.
+    * Humans are the living proof that the Animal doesn't exist.
+
 ---
 # References
 

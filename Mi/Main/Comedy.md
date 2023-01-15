@@ -32,7 +32,7 @@ difference is what they do with individual/social repressions [^1]
 - **sit back comedy** consolidates and cashes in on our repressions.
 	- irony as drawing the line between us who get it and the others who don't get it. Establishes place of the stupid other.
 	- you can never be on the wrong side, so you enjoy being right (mainstream left)
-- **stand up comedy**; attempting to win the audience, raking risk and convincing.
+- **stand up comedy**; attempting to win the audience, taking risk and convincing.
 	- makes the audience stand up in their heads
 
 ## Good comedy

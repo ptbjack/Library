@@ -84,7 +84,7 @@ Lacan v Butler:[^7]
         * Lacan: implication of discursivity and gap = signifier of the lack in the other.
             * The signifying order emerges as already lacking one signifier, it appears with the lack of a signifier "built into it" (*lack of "binary signifier"*)
             * The signifying order begins not with One or multiplicity. It begins with a "minus one".
-        * In the place of the gap, [[Enjoyment]] appears and stains the signifying structure: it is the heterogeneous element, enjoyment marks (curves) the signifying order by sticking to a certain set of signifiers that relate in some way to the lack of the signifier.
+        * In the place of the gap, [[Enjoyment (jouissance)]] appears and stains the signifying structure: it is the heterogeneous element, enjoyment marks (curves) the signifying order by sticking to a certain set of signifiers that relate in some way to the lack of the signifier.
         * The way enjoyment relates to the signifying order passes through the negativity (minus one).
             * This negativity is the Real of the junction between the missing signifier and enjoyment;* this configuration is sexuality*.
     * Sexuality is not a being that exists beyond the symbolic: it exists as the contradiction of the symbolic space that appears because of the constitutively missing signifier and enjoyment that appears at its place.

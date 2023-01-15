@@ -15,7 +15,7 @@ The ontologically stated non-relation is seen as the obstacle to the formation o
 * The impossible substance of enjoyment = [[objet a]], objective counterpart of the non-relation (non-relation as object).
 * Object-disoriented ontology, ontology as "disoriented" by the object a.
 
-The relation between [[enjoyment]] and [[sex]]uality exposes the non-relation at the very heart of every relation.[^3]
+The relation between [[Enjoyment (jouissance)]] and [[sex]]uality exposes the non-relation at the very heart of every relation.[^3]
 
 Abolishing the non-relation: emancipatory projects of 'new order', attempting to force the non-relation out of the social equation.
 

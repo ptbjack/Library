@@ -21,7 +21,7 @@ Sexual difference does not arise from there being two sexes or two sexualities, 
 * Example of the presuppositions of the functioning of the signifier.
     * "Ladies and gentlemen" as example of the constitutive gap and contradiction at the core of the signifying logic.
 * Train window, brother - sister example: they cannot agree where they are.
-    * Sexual difference is the consequence of the the fact that something is lacking in the signifying order (at the same time, there is something excessive in it- [[enjoyment]]).
+    * Sexual difference is the consequence of the the fact that something is lacking in the signifying order (at the same time, there is something excessive in it- [[Enjoyment (jouissance)]]).
     * Difference has no ground: there is no "two homelands", their homeland is one and the same: this oneness and sameness is the oneness and sameness of pure difference.
 * Heteronomy is not that between Ladies and Gentlemen, but between language as a system of differences and the object-like surplus ([[objet a]]) appearing at the place of the constitutive minus of this system, spoiling its pure differentiality.
     * Sexual difference is difference in the configuration of this "spoiling".

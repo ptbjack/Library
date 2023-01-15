@@ -3,14 +3,18 @@
 Status: 
 Tags: 
 
-Early:[^1]
-- The presence of the signifier induces irredeemable loss on the part of the human animal: once it is articulated in the signifier as "demand", need is irreversibly alienated.
-    * The presence of the signifier deviates man's need: when subjected to demand, needs come back to him in an alienated form.
-    * What is alienated in needs constitutes *primal repression*, as it cannot be articulated in demand.
-        * Nevertheless appears in an offshoot:* desire*.
-    * Phallus designates "meaning effects as a whole".
+# Early:
 
-Late: signifying order is coextensive with a lack.[^1]
+The presence of the signifier induces irredeemable loss on the part of the human animal: once it is articulated in the signifier as "demand", need is irreversibly alienated.[^1]
+* The presence of the signifier deviates man's need: when subjected to demand, needs come back to him in an alienated form.
+- What is alienated in needs constitutes *primal repression*, as it cannot be articulated in demand. Nevertheless appears in an offshoot:* desire*.
+* Phallus designates "meaning effects as a whole".
+
+Animal exists, the key fits into keyhole[^2]
+
+# Late: 
+
+The signifying order is coextensive with a lack.[^1]
 * There is no another side of the signifier (pure organic need), it has a reverse side.
 * The minus is the foundation (of the One of the signifying order).
 * Change in mythology.
@@ -27,8 +31,11 @@ Late: signifying order is coextensive with a lack.[^1]
     * Lacan complements Freud with the theory of the lack of one signifier as the other side of the surplus-enjoyment which pertains to the satisfaction of all our needs.
 * **Primal repression belongs to the signifying structure itself, it appears as "one with" the originally missing signifier, as synonymously with the structure with-without.**
 
+The supposed animal model of perfectly bi-univocal reproductive complementarity is a side effect of the "fantasy of the soul" through which we imaginarily "observe" the animal.[^2]
+
 
 ---
 # References
 
 [^1]: [[What is Sex#SEXUAL DIVISION, A PROBLEM IN ONTOLOGY]]
+[^2]: 
