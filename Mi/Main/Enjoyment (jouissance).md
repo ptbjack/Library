@@ -23,9 +23,13 @@ Jouissance names something particularly human, it is a singularization of a gene
 * Humans are the question mark to the very notion of the animal as a consistent entity.
     * Humans are the living proof that the Animal doesn't exist.
 
+Badiou does not connect "wandering excess" to surplus-enjoyment. For him, enjoyment is irrelevant.[^4]
+* Lacan: enjoyment is not irrelevant, it takes place at the point where something is lacking in the discursive.
+
 ---
 # References
 
 [^1]: [[Why Psychoanalysis#Some (un)timely observations]]
 [^2]: [[Why Psychoanalysis#The object of freedom]]
 [^3]: [[What is Sex#THE ANTI-SEXUS]]
+[^4]: [[What is Sex#BEING, EVENT, AND ITS CONSEQUENCES: LACAN AND BADIOU]]

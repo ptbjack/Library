@@ -69,7 +69,10 @@ Deleuze vs Lacan:
 	* Difference is the only and the original being, at the same time it needs to be realized, repeated and separated from the metaphysical and dialectical encumbrance that constitutes the history of Being and of its thought.
 	* **Ethics replaced politics, claiming to carry out the task of politics better than politics.** Deleuze: selection of difference based on repetition.
 
-
+Lacan: being is a shifting repetition of the impossible (gap), a repetition of that which is not.[^5]
+* Para-ontology: being is collateral to its own impossibility, and not to the impossibility of the event.
+    * An Event is related to the point of impossibility of being (impossibility to be qua being).
+    * For [[Badiou]], the interruption of being by an Event comes from "elsewhere".
 ---
 # References
 
@@ -77,3 +80,4 @@ Deleuze vs Lacan:
 [^2]: [[What is Sex#TRAUMA OUTSIDE EXPERIENCE]]
 [^3]: [[What is Sex#DEATH DRIVE I: FREUD]]
 [^4]: [[What is Sex#DEATH DRIVE II: LACAN AND DELEUZE]]
+[^5]: [[What is Sex#BEING, EVENT, AND ITS CONSEQUENCES: LACAN AND BADIOU]]
