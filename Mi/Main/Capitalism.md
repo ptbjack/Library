@@ -24,8 +24,30 @@ Labor power as commodity is the point that marks the constitutive negativity, ga
 * =="The Worker does not exist."== What exists is the person whose work is sold and bought.
 	* A Worker that existed would actually be a slave.
 	* The **proletariat** is not simply one of the social classes, it names the point of the concrete constitutive negativity in capitalism. Not the sum of all workers, the concept names the symptomatic point of this system, its disavowed and exploited negativity.
+
+Capitalism is not a social link, it affects all social links. Two fundamental inventions:[^3]
+1. Countability of the surplus generated out of the contradiction
+2. Systemic exploitation of this contradiction as the very source of profitable productivity
+	* Labor force as a commodity; what makes the products also appears with them on the market as one of the products, objects for sale.
+        * Marks the constitutive negativity, gap of the system, where one thing immediately falls into another.
+        * This peculiar commodity gives body to the point of contradiction and keeps **laboring the contradiction**.
+
+[[Foucault]] describes shift from [[repression]] to the economy of repression (punishment → imprisonment and surveillance).
+* Economy of repression is the vicious spiral and its "gain", mutually reinforced.
+* Foucault: psychoanalysis participates in this economy; with sexuality and its repression psychoanalysis discovered something that could be infinitely exploited and put to use in this modern economy.
+    * BUT Freud discovered sexuality as the privileged territory of symptoms, where the "perfect" economy does not work.
+        * **Sexuality as secondary surplus which cannot be put back to profitable use.**
+        * Libidinal economy comes with accumulating costs.
+
+The threatening point is not resistance to being put to use but the fact of the useless surplus which gets produced while everything is put to use.
+* **The more inclusive capitalist economy becomes, the more exclusion it generates.**
+**Absolute uselessness**; "systemic enjoyment" does not resists capitalist economy but threatens to make it explode.
+* It can be bound by politics and ideas (e.g. populism)
+    * Populism leaves the economy of repression intact and growing, it bounds the real and growing dissatisfaction of people in imaginary ways which can have very palpable material consequences.
+* Climate change; while running out, natural resources seem to be re-entering our space from a "beyond", from the real, in the form of another kind of surplus.
 ---
 # References
 
 [^1]: [[The Communist Manifesto#Introduction]]
 [^2]: [[What is Sex#THE INVISIBLE 'HANDJOB' OF THE MARKET]]
+[^3]: [[A-sexual Violence and Systemic Enjoyment]]

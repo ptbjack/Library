@@ -27,6 +27,8 @@ Social relations of power- domination, exploitation, discrimination- are forms o
 	* [[Lacan]]: "sexual identity" is a contradiction in terms.
 	    * Copulation is out of place in human reality, to which it nevertheless provides sustenance with the fantasies by which that reality is constituted.
 	* [[Deleuze]]: the "germen" (germ cells) is the crack, the very instance of *felure*.
+* The co-existence of the symbolic structure and enjoyment is not historical, belongs to the very "leaking" ontology of symbolic order.[^6]
+	* The "homologization" (in the form of a new way of counting) and consequent complicity between libidinal and symbolic is a historic occurrence or **"invention".**
 ---
 # References
 
@@ -35,3 +37,4 @@ Social relations of power- domination, exploitation, discrimination- are forms o
 [^3]: [[What is Sex#THE ANTI-SEXUS]]
 [^4]: [[What is Sex#THE INVISIBLE 'HANDJOB' OF THE MARKET]]
 [^5]: [[What is Sex#DEATH DRIVE II: LACAN AND DELEUZE]]
+[^6]: [[A-sexual Violence and Systemic Enjoyment]]

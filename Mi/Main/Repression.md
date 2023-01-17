@@ -11,7 +11,7 @@ Tags:
 	* Vs. Psychoanalysis: singular responsibility in relation to the singular object which is the decentered point through which the Other and its corresponding subjectivity are being maintained or not.
 		* [[Causality]] through object
 
-Freud's patient who says "It is not mother"; unconscious is in the censorship (form), not the content.[^2]
+[[Freud]]'s patient who says "It is not mother"; unconscious is in the censorship (form), not the content.[^2]
 - Symptoms persist beyond becoming conscious of the repressed content.
 * We cannot eliminate the structure of the gap that generates the repressed content.
 	- Gap ===becomes visible through double negation as its "indivisible remainder"===: "it is not not-mother" is not the same as "it is mother.
@@ -20,6 +20,8 @@ Freud's patient who says "It is not mother"; unconscious is in the censorship (f
 The [[unconscious]] starts with repression as the signifying form pertaining to discursivity as such:[^3]
 - [[Freud]]: actual repression is already based on repression; repression is constitutively redoubled.
 - [[Lacan]] links it to the signifying structure and to a “necessary fall of the first signifier”, which coincides with the constitution of the subject: “the subject is constituted around the Urverdrangung.”
+
+
 ---
 # References
 

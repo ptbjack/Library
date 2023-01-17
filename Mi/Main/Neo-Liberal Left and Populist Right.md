@@ -30,9 +30,15 @@ Liberal consensus is breaking down.[^3]
 - Digital media, ideological communities (Jordan Peterson etc.) 
 - Postmodern deconstructionist historicist relativism.
 
+False alternative of progress/purification of power and embracing of enjoyment.[^4]
+* Alternative between "left progressive liberals" and rise of the alt-right.
+* The left ended up on the conservative side: defending the rule of law, conserving what we have, reacting by introducing more new rules, regulations that are supposed to keep the "anomalies" at bay and to prevent any abuse.
+* Both sides are part of the same fundamental logic.
+
 ---
 # References
 
 [^1]: [[Stand Up for Comedy]]
 [^2]: [[Erdoğanizm Muhafazakar Devrimci midir]]
 [^3]: [[Poetry-in-the-Round with Slavoj Žižek (October 24, 2018)]]
+[^4]: [[A-sexual Violence and Systemic Enjoyment]]

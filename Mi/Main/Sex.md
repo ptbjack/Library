@@ -11,6 +11,7 @@ Tags:
 [[ Psychoanalysis and Politics]]
 [[Sexual division]]
 [[Formulas of sexuation]]
+[[Power]]
 
 [[Freud]]: sexuality is a paradox-ridden deviation from a norm that does not exist.[^1]
 - Aberrant’ mechanisms (deviation from object, reproductive aim) are also present in what is considered to be ‘natural’ sexual behavior.
