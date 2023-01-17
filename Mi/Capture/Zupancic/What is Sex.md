@@ -775,7 +775,7 @@ If one starts from the primary character of the pleasure principle (pleasure= lo
         * Laplanche: reality of the enigmatic message.
         * Only registered as an interruption of consciousness.
         * Negativity that comes as built into the conditions of experience.
-            * Objectivity of trauma (independence from 'psychic life') is the condition of us having a 'psychic life' (and experiencing something as "traumatic"
+            * Objectivity of trauma (independence from 'psychic life') is the condition of us having a 'psychic life' (and experiencing something as "traumatic")
 * Malabou: trauma is not real, it is psychologically mediated.
     * Zupancic: mediation comes from the outside. It is not a screen separating us from the Real, but is itself partaking in ths Real.
         * Mediation is the trauma (trauma as real).

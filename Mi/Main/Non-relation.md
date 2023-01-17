@@ -23,6 +23,10 @@ Social relations of power- domination, exploitation, discrimination- are forms o
 - 'narratives of the Relation', present a given form of social antagonism as the ultimate Relation, supposedly protecting us from the utter Chaos of the non-relation and at the same time disavowing non-relation and appropriating it as the generic and productive point of social power. Actual, concrete exploitation is based on this appropriation of "privatization of the negative.
 - [[Capitalism]]
 	- "The Worker does not exist"
+- Unifying sexuality: sexuality unifies the drives as the crack around which they circulate and to which they keep returning. **Normativity's aim is not to unify or "tame" the original heterogeneity of partial drives, but to obfuscate and exploit this founding crack and its "productivity".**[^5]
+	* [[Lacan]]: "sexual identity" is a contradiction in terms.
+	    * Copulation is out of place in human reality, to which it nevertheless provides sustenance with the fantasies by which that reality is constituted.
+	* [[Deleuze]]: the "germen" (germ cells) is the crack, the very instance of *felure*.
 ---
 # References
 
@@ -30,3 +34,4 @@ Social relations of power- domination, exploitation, discrimination- are forms o
 [^2]: [[What is Sex#THE QUANDARY OF THE RELATION]]
 [^3]: [[What is Sex#THE ANTI-SEXUS]]
 [^4]: [[What is Sex#THE INVISIBLE 'HANDJOB' OF THE MARKET]]
+[^5]: [[What is Sex#DEATH DRIVE II: LACAN AND DELEUZE]]

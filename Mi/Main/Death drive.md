@@ -61,6 +61,16 @@ Freud (there are only sexual drives) → Lacan (every drive is virtually a death
     * **Death drive does not only want us to enjoy, it wants only to repeat this negativity, the gap in the order of being, even if this means to enjoy.**
     * Enjoyment is the means, the "aim" is the repetition of the lack of being in the very midst of being.
 
+Lacan and Deleuze reject the primacy of the pleasure principle, and the possibility of relating the death drive to a homeostatic tendency.[^6]
+* [[Deleuze]] affirms the primacy of the death drive.
+    * Death drive is transcendental principle, pleasure principle is only psychological part of the logic of appearing of the death drive.
+    * Death drive linked to [[repetition]], which is the place of original *affirmation*.
+	    * Affirmation: selective, not a simple opposite of negativity.
+* [[Lacan]]: "every drive is virtually a death drive"
+    * [[Freud]]'s metaphysics is from [[Aristotle]]; lowering of tension is the ethics of Aristotle.
+    * [[lamella]] - death drive to 'indestructible life'.
+
+
 Drive is the impossible joint articulation of being and meaning in their heterogeneity.[^1]
 - The being of the drive is lack-of-being.
 - Drive is the being of the lack/void.
@@ -93,6 +103,12 @@ Double loop of the drive:[^4]
 * Death drive can eventually shift life's fundamental goal of returning to the inanimate.
     * Establishes the ways of returning to inorganic existence other than those which are immanent in the organism itself.
     * Death drive is what makes it possible for us to die differently.
+
+[[Brassier]]: the separation of organic inside and inorganic outside is achieved at the price of the death of part of the primitive organism itself.[^5]
+ * Death drive is the trace of the scission (primordial death): the scission cannot be bound because it remains the unbindable excess that makes binding possible.
+* Third element, death, preconditions the opposition of life and death and is presupposed by it.
+* "Life wants to return to the inanimate": life has nowhere to return to except that with the lack of which it has come to life.
+* the excess of the death drive is the trace of the aboriginal [[trauma]] prior to experience, **[[repetition]] (of empirically traumatic experience) is a means of awakening anxiety in order to master and "bind" the excess.**
 ---
 # References
 
@@ -100,3 +116,5 @@ Double loop of the drive:[^4]
 [^2]: [[Why Psychoanalysis#The object of freedom]]
 [^3]: [[Why Psychoanalysis#Some (un)timely observations]]
 [^4]: [[What is Sex#DEATH DRIVE I: FREUD]]
+[^5]: [[What is Sex#TRAUMA OUTSIDE EXPERIENCE]]
+[^6]: [[What is Sex#DEATH DRIVE II: LACAN AND DELEUZE]]
