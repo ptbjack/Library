@@ -10,10 +10,14 @@ Original nonexistence of any germ of two sexes during preadolescence.[^1]
     * If pure Masculinity and pure Femininity existed, their sexuality would be one and the same ("masculine")
 
 Sexual difference does not arise from there being two sexes or two sexualities, but from the fact that there is no "second sex", and from an enigmatic indifference of the "sexual thing" (polymorphically perverse autoeroticism) that appears at the point of the "missing sex".[^1]
-* What splits into two is the very nonexistence of the one (the one which would be the Other).
+* **What splits into two is the very nonexistence of the one (the one which would be the Other).**
 	* What splits in two is the very "one that lacks", the minus, the with-without.
-* There is no subjectivity beyond (or simply outside) the sexual division.
+* **There is no subjectivity beyond (or simply outside) the sexual division.**
     * Sexual difference is not a secondary distinction of subjectivity, or simply culturally constructed.
+- Sexual difference is a difference in configuring what makes all the difference: the minus marked by the phallic function (of castration).
+	- Masculinity is a matter of **belief**, femininity is a matter of **pretense**
+		- [[Anxiety]]
+		- constitutive exception vs constitutive deception
 
 ![[2020-12-27_175917.png]]
 * We have differentiality (two different signifiers), but there is nothing different in the realities to which they refer.[^1]

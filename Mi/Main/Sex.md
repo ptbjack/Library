@@ -9,7 +9,7 @@ Tags:
 [[Christian sexuality]]
 [[Non-relation]]
 [[ Psychoanalysis and Politics]]
-[[Sexual difference]]
+[[Sexual division]]
 [[Formulas of sexuation]]
 
 [[Freud]]: sexuality is a paradox-ridden deviation from a norm that does not exist.[^1]
@@ -62,7 +62,7 @@ Ontological investigation:[^7]
         * Reduction of sex and the sexual to the point of ontological inconsistency, which, as such, is irreducible.
 - ‘The sexual’ as the psychoanalytic name for the inconsistency of being.[^2]
 	- The sexual is the edge of meaning, inner limit; the point of consistency of being that induces production of meaning.
-	- Sexual meanings revealed in therapy mask the reality of [[Drive]], it is a means of satisfaction through meaning [[Jouis-sense]], satisfaction in the production of sexual meaning. Psychoanalysis tries to deactivate the path of this satisfaction, to make it useless.[^2][^3]
+	- Sexual meanings revealed in therapy mask the reality of [[Death drive]], it is a means of satisfaction through meaning [[Jouis-sense]], satisfaction in the production of sexual meaning. Psychoanalysis tries to deactivate the path of this satisfaction, to make it useless.[^2][^3]
 	- [[Heidegger]]: being-towards-death → [[Lacan]]: being-towards-sex.[^2]
 
 Lacan v Butler:[^7]

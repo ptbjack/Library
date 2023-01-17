@@ -3,7 +3,7 @@
 Status: 
 Tags: 
 
-Separation = isolating the [[Drive]] and its object[^1]
+Separation = isolating the [[Death drive]] and its object[^1]
 - Drive is not element but elementary form of the split that precedes the elements split in it.
 
 
