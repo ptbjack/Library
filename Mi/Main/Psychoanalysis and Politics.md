@@ -43,8 +43,12 @@ Emancipation is most often conceived in terms of freeing ourselves from the soci
 	    * E.g. "the invisible hand of the market"	
 	 - ==Choice is not between relation and non-relation, it is between different kinds of relations that are being formed in the discursive space curved by the non-relation.==
 
+Egemen politik anlatılarda özne silinir, anlatının sustuğu yerden anlam kurulur:[^3]
+- Tuzla, Limter-İş; haberin bugün yapılıyor olması, bugüne kadar dile getirilmemiş olmasının nedeni olan öncü, anlatıda geçmeyen, dönüştürücü eylemden mahrum bırakılan ve anlatıda ancak üst koşullar içerisinde davranan bir konuma itilir.
+
 ---
 # References
 
 [^1]: [[What is Sex#THE QUANDARY OF THE RELATION]]
 [^2]: [[What is Sex#THE ANTI-SEXUS]]
+[^3]: [[İstisnalar Kaideyi Kurar]]
