@@ -35,7 +35,7 @@ Status: #sum
 [48:18](https://www.youtube.com/watch?v=aKrH5O2ZB7E&t=2898)Hegel: Freedom of thought only within language, but you learn a language by internalizing its mechanical rules.
 
 [50:28](https://www.youtube.com/watch?v=aKrH5O2ZB7E&t=3028)Lacan: self-consciousness is an object.
-- Hegel: state is self-consciousness of state, activity of state is self-declarations. State remarks (Derrida) itself in ceremonies.
+- Hegel: state is self-consciousness of state, activity of state is self-declarations. State re-marks (Derrida) itself in ceremonies.
 - reflexive registration in symptom: "I had a good time", I register my truth symbolically and internal thoughts "I hate you, I should go" is wrong.
 
 [56:04](https://www.youtube.com/watch?v=aKrH5O2ZB7E&t=3364)Allegory vs symbol
