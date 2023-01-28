@@ -41,6 +41,29 @@ difference is what they do with individual/social repressions [^1]
 	- keep dreaming alternatives within the choice I impose upon you
 	- 'there is no dream mosque' as a response to systemic blackmail [^1]
 
+## Comedy and stress relief
+Komedi stresten kurtardığı gibi, stresi mobilize eder ve onun üzerinden belki komedi olmadan yapılamayacak reflectionlar yapmamızı sağlar. 
+
+
+(https://youtu.be/YzwkONbdlFA?t=839) [The Subversive Spirit of Comedy: Alenka Zupančič in Conversation with Rosie Goldsmith]
+
+## What comedy has in common with love
+
+https://youtu.be/YzwkONbdlFA?t=1430
+
+Love, just like comedy, is temporal. There is a movement of bouncing back and forth between the two poles 
+
+Badiou'ya göre sanat iki çeşit aşk anlatısı yapıyor:
+1- Bütünlüğe erişmek için engelleri aşma, foreplay to unity (iki eleman var)
+2- Amour passion, yıkıcı, destructive aşk
+Yani sanat (genelde) aşkı zamansallığında anlatamıyor, yani bir süre süren aşkı anlatamıyor. 
+
+Zupancic bunu görünce şunu düşünmüş: komedi tam bunu yapıyor: aşkın zamansallığının ikili bir dans gibi olmasıyla alakalı. Komedi bu ikili git-gellerle işliyor, yanlış anlaşılmaların, hataların aynı zamanda çıkardığı fazlalıkları "eğlenmeye devam etmek" için kullanıyor; ve burada saptırma anlamında "eğlenmeye devam etmek"ten bahsetmiyoruz. Komedi bu (yanlış)anlaşılma sırasında fazladan üretilen elemanı alıp onu kullanıyor.
+
+Teorik bir nokta yapacak olursak: Lacan diyor ki there is no sexual relationship; relationshipler yok anlamında değil, preestablished bir ilişki yok anlamında. Zupancic'in bir formülü var: aşk ve komedi tam olarak bu non-relationshipin, olmayan (olmayarak var olan) cinsel ilişkinin, süren, zaman alan, işlenme ve örülme biçimleri.
+
+Bu anlamda komediyi ittiren, ilerleten şey sadece bir hata, problem değil, şaşırtan, heyecanlandıran, korkutan artı(k)-fazlalıklar yaratması.
+
 ---
 # References
 
