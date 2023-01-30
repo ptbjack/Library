@@ -98,3 +98,66 @@ Four operations of power, different from simple prohibition:
 - Each local sexuality gave a surface of intervention; analytical multiplication of pleasure and optimization of the power that controls it.
 
 ## III. Scientia Sexualis
+
+Until Freud, the discouse of scholars and theoriticians on sex invented precautions and analyses, so many procedures meant to **evade the hazardous truth of sex**.
+- Rarefied, neutral viewpoint of a science subordinated to the imperatives of a morality whose divisions it reiterated under the guise of the medical norm.
+- *Fin de siecle* society, pornography of the morbid.
+- Claim to ensure the physical vigor and the moral cleanliness of the social body, science justified the racisms of te state and grounded them in "truth".
+- Two orders of knowledge:
+	1. biology of reproduction, general scientific normativity
+		- Will to knowledge
+	2. medicine of sex
+		- Will to nonknowledge: systematic blindness. Choosing not to recognize is another vagary of the will to truth.
+		- Charcot's Salpetriere: continuous incitement to discourse and to truth, mechanisms of misnuderstanding (Charcot's interruptions of public consultation, deleting information from dossiers)
+	- **First is the fictitious guarantee of the second, allowing moral, economic and political options to be recast in a scientific-sounding vocabulary.**
+- Sex as a problem of truth, endeavor to tell the truth of sex.
+
+
+Two procedures for producing the truth of sex:
+- *ars erotica:* truth drawn from pleasure itself. Pleasure is in relation to itself.
+	- Knowledge that must remain secret, held in great reserve, loses its effectiveness and its virtue by being divulved.
+	- Knowledge deflected back into sexual practice to amplify its effects.
+- ***scientia sexualis:*** knowledge-power opposed to the art of initiations and masterful secret. **Confession** produces truth (Western man has become a confessing animal):
+	- sacrament of penance, Lateran Council 1215.
+	- *avowal* changed meaning: guarantee of status, identity, value granted to one person to another → someone's acknowledgment of his own actions and thoughts.
+	- Literature: heroic or marvelous narration of "trials" of bravery → infinite task of extracting a truth in between the words.
+	- Philosophy: self-examination that yields the basic certainties of consciousness through a multitude of fleeting impressions.
+	- We no longer perceive confession as the effect of a power that constrains us, we think that truth "demands" only to surface ("confession frees", but power reduces one to silence)
+		- **The production of truth is imbued with relations of power.**
+	- The obligation to conceal sex could be another aspect of the duty to admit to it.
+		- Truth and sex are joined in the confession, through the obligatory and exhaustive expression of an individual secret.
+
+ In confession, **the speaking subject is also the subject of the statement.**
+- Power relationship in the ritual: the presence of a partner who is the authority requiring, appreciating the confession
+	- Agency of domination resides in the one who listens and says nothing, questions and is **not supposed to know**.
+- Expression alone produces intrinsic modifications in the person who articulates it: it unburdens him of wrongs and promises salvation.
+- **discourse comes from below**, as obligatory act of speech which breaks the bonds of discretion and forgetfulness.
+- Presupposed secrecy comes from its obscure familiarity and general baseness.
+- Accuracy comes from the intimacy of discourse and discourse takes efect in the one from whom it is wrested, not in the one who receives it.
+
+After Protestanism and Counter Reformation, the confession lost its exclusive localization, spread and was employed in a series of relationships. No longer a question of simply saying what was done -the sexual act- but of reconstructing the thoughts, obsessions, images, desires, quality of the pleasure that animated it.
+- Discourse was solidified by medicine, psychiatry, and pedagogy (indefinite record of people's pleasures)
+- Singular pleasures were called upon to pronounce a discourse of truth (discourse of science: bodies and life processes) concerning themselves.
+- **Redoubling of discourse, interference between procedures of confession and scientific discursivity.**
+	1. *Clinical codification of the inducement to speak*: reinscribing the procedure of confession in a field of scientifically acceptable observations through interrogation, questionnaire, recollection of memories and free association.
+	2. *Postulate of general and diffuse causality*: imputing sexual etiology to everything, principle of sex as a "cause of any and everything" underlying constant, thorough confession operating within a scientific type of practice.
+	3. *Principle of a latency intrinsic to sexuality*: sex is elusive in nature, confession in 19th century concerned with what was hidden from the subject. It was possible to link the forcing of a difficult confession to a scientific practice since it involved something that tried to stay hidden.
+	4. *Method of interpretation*: Truth constituted in two stages, revelation of confession coupled with the decipherment of what it said.
+		- Hermaneutic function of the master of truth.
+		- Confession no longer as a test but as a sign, needing to be interpreted.
+	5. *Medicalization of the effects of confession*: no longer sin/excess/transgression, sex placed under the rule of **the normal and the pathological**.
+		- Sex deriving its meanings and necessity from medical interventions.
+		- **The truth healed** when spoken in time, to the proper party, by the person who was both the bearer and the one responsible for it.
+- Complex machinery connecting the ancient injunction of confession to clinical listening methods. "Sexuality" embodies the truth of sex and its pleasures.
+	- Sexuality defined as being "by nature", a domain calling for therapeutic and normalizing interventions, an obscure speech (parole) that had to be ferreted out and listened to.
+	- NOT a system of representations but the "economy" of discourses.
+- 19th century society set out to **formulate the uniform truth of sex**.
+	- Sex became an object of suspicion, disquiting meaning that pervades our conduct and existence in spite of ourselves. Universal secret, omnipresent cause, fear that never ends.
+	- Two processes:
+		- Demand that sex speak the truth
+		- Demand that sex tells us our truth; buried truth which we think we possess in our immediate consciousness.
+	- **Knowledge of the subject**, knowledge of that which divides and determines the subject.
+		- Causality in the subject, unconscious of the subject, truth of the subject which he holds unbeknown to him, scientific project around the question sex by virtue of the tactics of power immanent in this discourse.
+
+Since the 19th century, *scientia sexualis* also functioned as an *ars erotica*.
+- Pleasure in the truth of pleasure, specific pleasure of the true discourse on pleasure, **pleasure of analysis**
