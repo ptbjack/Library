@@ -10,9 +10,11 @@ Modern bourgeois form, [[property]] is based on **the antagonism of capital and 
 
 In bourgeois society capital is independent and has individuality, while the living person is dependent and has no individuality.
 
-
+[[Zizek]]: Hegel wasn't Hegelian enough when confronting capital. He interpreted estates (state, farm, commerce) as intersubjective bonds, missed how labor power itself becomes a commodity under capitalism.[^2]
+- Marx explained self-reproduction of capital in purely Hegelian terms; substance becomes subject.
 
 ---
 # References
 
 [^1]: [[The Communist Manifesto#II. Proletarians and Communists]]
+[^2]: [[Give Them An Argument S05E05]]
