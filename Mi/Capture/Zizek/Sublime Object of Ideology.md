@@ -1,5 +1,3 @@
-Title: Revulfilm
-Author: 
 
 # Preface: The Idea's Constipation?
 
