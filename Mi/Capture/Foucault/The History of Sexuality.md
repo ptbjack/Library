@@ -161,3 +161,90 @@ After Protestanism and Counter Reformation, the confession lost its exclusive lo
 
 Since the 19th century, *scientia sexualis* also functioned as an *ars erotica*.
 - Pleasure in the truth of pleasure, specific pleasure of the true discourse on pleasure, **pleasure of analysis**
+
+## IV. The Deployment of Sexuality
+### 1. Objective
+
+Repression is more primary than throttled rebellious energy. Illusion of repression and vanity is exerted afterwards, on the power relation.
+
+Analytics of power can be constituted only free from **"juridico-discursive" representation of power** which neglects the productive effectiveness, strategic resourcefulness and positivity of power:
+- Repression of instincts and theory of the law as constitutive of desire both rely on this representation. The only difference is between a promise of liberation and affirmation of desire. 
+- *Negative relation* between power and sex (rejection, exclusion, refusal, concealment etc.), the effects of power take the general form of limit and lack.
+	- paradox of effectiveness: incapable of doing anything except to render what it dominates incapable of doing anything other than what power allows to do it.
+- *Insistence of the rule* : power dictates its law to sex and places it in a binary system (licit-illicit). Power's hold is maintained through discourse, "it speaks and that is the rule".
+- *Cycle of prohibition* : power employs nothing more than a law of prohibition (thou shalt not exist, except in darkness and secrecy). "Do not appear if you do not want to disappear".
+- *Logic of censorhip* : affirming that sex is not permitted, preventing it from being ssaid, denying that it exists.
+	- injunction of nonexistence, nonmanifestation, and silence.
+- *uniformity of the apparatus* : effects same at all levels, the subject constituted as he who obeys (legislative power - obedient subject)
+
+Power is accepted as a pure limit on freedom, it is tolerable only on condition that it mask a substantial part of itself. Institutions of power since the Middle Ages, form a unitary regime, identify their will with the law and act through mechanisms of interdiction and sanction.
+- *pax et justitita*: peace as prohibition of feudal or private wars and justice as a way of suspending the private settling of lawsuits.
+- In Western societies, exercise of power is formulated in terms of law.
+
+Political criticism in 18th century France condemned monarchy which set itself above the laws, but did not challenge the principle of law as the form of power.
+- 19th century critique of law carried out the **assumption that power must be exercised in accordance with a fundamental lawfulness.**
+- "In political thought and analysis, we still have not cut off the head of the king."
+
+New mechanisms of power are irreducible to the representation of law.
+- new: men as living bodies
+	- right → technique
+	- law → normalization
+	- punishment → control
+We must consider consider sex without the law and power without the king.
+
+### 2. Method
+
+Power != a general system of domination exerted by one group over another, a system pervading the entire social body.
+
+**Power is the multiplicity of force relations immanent in the sphere in which they operate and which constitute their own organization.**
+- No primary existence of a central point.
+- Moving substrate of force relations which engender local and unstable states of power.
+- Power is everywhere; not because it embraces everything, but because it comes from everywhere.
+- Nominalist take: Power is not an institution/structure; it is the name that one attributes to a complex strategical situation in a particular society.
+- Multiplicity of force relations can be partially coded -never totally- in the form of "war" or "politics", **two strategies for integrating heterogeneous, unstable force relations.**
+- Relations of power are immanent in relationships, they are the immediate effects of the divisions which occur in the latter.
+- Power comes from below. **There is no binary and all-encompassing opposition between rulrs and ruled at the root of power relations, serving as a general matrix.**
+	- cleavage that run through the social body as a whole.
+- Power relations are both **intentional and nonsubjective.** They are imbued with calculation, but doesn't result from the decision of an individual subject.
+	- anonymous, unspoken strategies which coordinate the tactics.
+- Resistance is internal to power and everywhere present.
+	- There is no single locus of great Refusal, source of all rebellions, or pure law of the revolutionary.
+	- Resistances **are the odd term in relations of power, they are inscribed in the relations as an irreducible opposite**.
+
+Cautionary prescriptions:
+1. *Rule of immanence:* sexuality was constituted as an area of investiagion only because relations of power had established it as a possible object.
+2. *Rules of continual variations:* relations of power are matrices of transformations, not static forms of distribution (those that have it, those that don't)
+3. *Rules of double conditioning:* there is no two levels of power, no discontinuity.
+	- The father is not "representative" of the sovereign or the state, or vice versa. The family and society do not duplicate each other. The family organization was used to support the maneuvers employed for the Malthusian control of the birthrate, for medicalization of sex and psychiatrization of its nongenital forms.
+4. *Rule of the tactical polyvalence of discourses:* 
+	- Silence and secrecy are shelter for power, anchor its prohibitions; they also provide for relatively obscure areas of tolerance. (Big Other of appearances)
+		- Sodomy: two-fold operation of extreme severity and widespread tolerance.
+		- Social controls into the area of "perversity" accompanied **"reverse" discourse**: homosexuality began to speak in its own behalf, demand that its "naturality" be acknowledge, using the same categories by which it was medically disqualified.
+
+### 3. Domain
+
+Four strategic unities:
+1. *Hysterization of women's bodies*:
+	- medicine -- intrinsic pathology of the feminine body
+	- the Mother: organic communication with the social body, had to esure the family space and the life of children (biologico-moral responsibility)
+2. *Pedagogization of children's sex*:
+	- sexual activity natural and contrary to nature at the same time
+	- war against onanism, dangers of sexuality need to be monitored, taken charge of
+3. *Socialization of procreative behavior*:
+	- "responsibilization" of couples with regard to the social body as a whole
+	- Medical socialization: pathogenic value attributed to birth-control practices.
+4. *Psychiatrization of perverse pleasure*
+
+Four figures: hysterical woman, masturbating child, Malthusian couple, perverse adult.
+
+Production of sexuality; sexuality as a historical construct, surface network.
+- *deployment of alliance*: system of marriage, fixation of kinship ties, transmission of names and possessions.
+	- system of rules, defining the licit and illicit
+	- reproduces the interplay of relations and maintains the law that governs them
+- *deployment of sexuality*: sensations of the body, quality of pleasures, nature of impressions
+	- mobile, polymorphous, contingent techniques of power
+	- ensures continual extension of areas and forms of control
+	- proliferating, annexing, creating, penetrating bodies in an increasingly detailed way
+- problematic of relations → problematic of the "flesh"
+	- more secret forms of enjoyment
+- **Family is the interchange of sexuality and alliance**: it conveys the law in the deployment of sexuality and the economy of pleasure and intensity of sensations in the regime of alliance.
