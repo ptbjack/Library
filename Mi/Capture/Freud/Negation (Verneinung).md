@@ -8,7 +8,6 @@ Negation: "You ask who this person in the dream can be. It's not my mother".
 Trap: ask patient 'what would you consider the most unlikely imaginable thing in that situation?', leads to right admission.
 
 The content of a repressed image or idea can make its way into consciousness on condition that it is negated.
-
 * Negation is already a lifting of the repression but not an acceptance of what is repressed.
 * Intellectual function separated from the affective process.
 * Negative judgement is intellectual substitute for repression.

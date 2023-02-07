@@ -223,6 +223,8 @@ Cautionary prescriptions:
 
 ### 3. Domain
 
+Sexuality is an espeially dense transfer point for relations of power, it is not stubborn, necessarily dissobedient drive.
+
 Four strategic unities:
 1. *Hysterization of women's bodies*:
 	- medicine -- intrinsic pathology of the feminine body
@@ -237,7 +239,7 @@ Four strategic unities:
 
 Four figures: hysterical woman, masturbating child, Malthusian couple, perverse adult.
 
-Production of sexuality; sexuality as a historical construct, surface network.
+Production of sexuality; **sexuality as a historical construct, surface network.**
 - *deployment of alliance*: system of marriage, fixation of kinship ties, transmission of names and possessions.
 	- system of rules, defining the licit and illicit
 	- reproduces the interplay of relations and maintains the law that governs them
@@ -247,4 +249,26 @@ Production of sexuality; sexuality as a historical construct, surface network.
 	- proliferating, annexing, creating, penetrating bodies in an increasingly detailed way
 - problematic of relations → problematic of the "flesh"
 	- more secret forms of enjoyment
-- **Family is the interchange of sexuality and alliance**: it conveys the law in the deployment of sexuality and the economy of pleasure and intensity of sensations in the regime of alliance.
+
+**Family is the interchange of sexuality and alliance**: it conveys the law in the deployment of sexuality and the economy of pleasure and intensity of sensations in the regime of alliance.
+- developed in the family, sexuality is "incestuous" from the start. **Incest is constantly solicited and refused, is continuously demanded for the family to be a hotbed of constant sexual incitement.**
+- prohibition of incest as the rule of rules to which all societies are subject, keeps the deployment of sexuality under the system of alliance.
+- Family as crystal: 19th century and on, family seemed to be the source of a sexuality which it actually only reflected and diffracted.
+- Charcot tried to detach the sphere of sexuality from the system of alliance; separating patients with the promise of returning individuals sexually-compatible with the family system. **Intervention manipulated the sexual body, did not allow for it to define itself in explicit discourse**.
+- **Psychoanalysis relocated the alliance (family) at the heart of sexuality**.
+	- No risk of alien sexuality, it is constituted through the law (Parents don't be afraid, you'll only learn it is you your children loves.)
+	- Christian pastoral vs psychoanalysis:
+		- pastoral, the law of alliance codified the flesh.
+		- psychoanalysis, sexuality gave body to the rules of alliance by saturating them with desire.
+
+1. family forms labor force
+2. *Spatkapitalismus*: exploitation of wage labour relies on controlled circuits of the economy - **hyper-repressive desublimation.**
+
+### 4 Periodization
+
+Two ruptures of repression:
+1. 17th century promotion of marital sexuality and reduction to silence.
+2. 20th century tolerance, taboos lifted.
+
+18th century, sex required the social body/all individuals to place themselves under surveillance (pedagogy, medicine, demography).
+- technology of sex ordered in relation to the problem of life and illness (not death and punishment). **The flesh was brought down to the level of the organism.**

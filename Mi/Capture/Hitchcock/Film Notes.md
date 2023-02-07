@@ -466,7 +466,7 @@ Artist lover
 
 43:15 Frank finds Alice's glove at the scene
 
-49:30 çok konuşan kadın ---"knife" tekrarlaması
+**49:30 çok konuşan kadın ---"knife" tekrarlaması**
 
 58:00 Frank blackmailed into paying for the cigar
 
