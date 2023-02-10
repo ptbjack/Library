@@ -1,3 +1,5 @@
+#ergo 
+
 # Vol. 1: An Introduction
 ## I. We "Other Victorians"
 
@@ -272,3 +274,106 @@ Two ruptures of repression:
 
 18th century, sex required the social body/all individuals to place themselves under surveillance (pedagogy, medicine, demography).
 - technology of sex ordered in relation to the problem of life and illness (not death and punishment). **The flesh was brought down to the level of the organism.**
+19th century:
+1. medicine of sex apart from that of the body, medico-psychological domain of the "perversions"
+2. analysis of heredity, sex under "biological responsibility" with regard to the species.
+3. degenerescence, heredity maladies resulting from sexual perversion.
+End of 19th, psychiatry sought to free sexual instinct from eugenics and racism.
+- Psychoanalysis is the only institution that opposed the political and institutional effects of the perversion-heredity-degenerescence system.
+
+It is a mistake to write the history of sexuality in terms of repression and controls directed at poorer classes, at the young man whose energy is directed towards compulsory labor. **Most rigorous techniques were first applied in the economicaly privileged class.**
+- Bourgeoisie considered that its own sex was something important, a secret that had to be discovered at all cost.
+- First figure invested by the deployment of sexuality was the "idle woman", then the "schoolboy", child surrounded by servants, tutors etc.
+- This is not bourgeois asceticism: it is a problematization of health and its operational terms, question of **techniques for maximizing life**.
+	- ***Self-affirmation of one class rather than the enslavement of another.*** The class provided itself with a body to be cared for, protected, cultivated, preserved from the dangers and contacts, isolated from others so that it would retain its differential value.
+	- "class" body with its health, hygiene, descent, and race. Primordial form of class consciousness.
+Working class;
+- birth control problems
+- "conventional family" (1830s) for the urban proletariat. "moralization of the poorer classes."
+- Juridical and medical control of perversions for the sake of a general protection of society and the race.
+**There was no unitary sexual politics**.
+- Sexuality is historically bourgeois and it induces specific class effects.
+
+The bourgeoisie's "blood" (nobility/ancestry) was its sex.
+- Preoccupation with heredity; families concealed diseases of the group of relatives.
+- dynamic racism, racism of expansion?
+
+With theory of repression, social differentiation was affirmed by the intensity of repression.
+
+Psychoanalysis is a technique for relieving the effects of the taboo where its rigor makes it pathogenic. It allowed **individuals to express their incestuous desire in discourse**. 
+- Discovery of the Oedipus complex was contemporaneous with the juridical organization of loss of parental authority.
+	- Father was elevated into an object of compulsory love, at the same time he would be a fallen one in the eyes of law.
+- Requirement of confession assimed new meaning of an **injunction to lift psychical repression**. Task of truth linked to the challenging of taboos.
+
+Between two world wars, the historico-political critique of sexual repression always unfolded within the deployment of sexuality.
+- "antirepressive" struggle represented a tactical shift and reversal in the deployment of sexuality.
+
+## V. Right of Death and Power over Life
+
+Classical sovereign's power was the right to decide life and death, used only in cases where the sovereign's existence was in jeopardy.
+- Indirect power over subjects, not directly proposing their death but empowered to expose their life.
+- *Take life or let live*
+- Power as **right of seizure**: privilege to seize hold of life in order to suppress it.
+
+Now, massacres have become vital, wars are waged as managers of life and survival.
+- **Juridical existence of sovereignty → biological existence of a population**
+- Power exercized at the level of life, over the population.
+	- Capital punishment is contradiction for power that is supposed to multiply, sustain life. It is only executed over those who represent a biological danger to others.
+- *Foster life or disallow it*
+- Death is power's limit, most private aspect of existence.
+	- Determination to die, private right to die
+
+Two forms of power over life:
+- *anatomo-politics of the human body*, centered on the body as a machine.
+	- discipline in army and schools.
+- *biopolitics of the population*
+	- constructing of tables, theory of the social composition of interests.
+- Two forms are joined in **concrete arrangements**, as seen in the deployment of sexuality.
+
+Instead of ascetic morality, entry of life into history.
+- 18th century increase in productivity, demographic growth, death was ceasing to torment life so directly. Relative control over life averted some immanent risks of death.
+
+**Biopower** brought life and its mechanisms into the realm of explicit calculations and made knowledge-power an agent of transformation of human life.
+- Life constantly escapes techniques that govern it.
+- New mode of relation between history and life: life simultaneously outslde history (biological environment) and inside human historicity (techniques of knowledge and power).
+- Growing importance of the norm at the expense of the juridical system of law.
+	- Power doesn't have to draw the line that separates the enemies of the sovereign from his obedient subjects; it effects distributions around the norm.
+	- Juricial institution incorporated into a continuum of regulatory apparatuses.
+
+Political response to new procedures of power was **the "right" to life, to happiness, to satisfaction of needs, the "right" to rediscover oneself.**
+
+Sex in two forms:
+- tied to the disciplines of the body (relying on regulation)
+	- sexualization of children (for the health of the race)
+	- hysterization of women (in the name of responsibility to children, safeguarding society)
+- applied to the regulation of populations (relying on discipline and constraints)
+- Became the **stamp of individuality, enabling to analyze and master it.**
+
+Sanguinity → sexuality:
+- Classical society of blood, **power spoke through blood**.
+	- Blood was a *reality with a symbolic function*
+- Now, society of "sex", society "with a sexuality"
+	- Power speaks of and to sexuality; sexuality as *object, not symbol*.
+- Sade : endowed the exhaustive analysis of sex with prestige of blood.
+	- sex is subject to no other law than its own.
+	- naked sovereignty: unlimited right of all-powerful monstrosity.
+- Preoccupation with blood and the law haunted the administration of sexuality for two centuries.
+	- Nazism, most naive (thus most cunning) combination of fantasies of blood and the paroxysms of disciplinary power.
+	- Psychoanalysis is in theoretical and practical opposition to fascism due to **Freudian endeavor to ground sexuality in the law, surrounding desire with the trappings of the old order of power.
+
+"Sex" is an idea described as having intrinsic properties and laws of its own.
+- Three definitions of sex in hysterization of women:
+	- that which is common to men and women
+	- that which belongs to men and is lacking in women
+	- that which constitutes woman's body by itself
+	- **Hysteria interpreted as the movement of sex insofar as it was the "one" and the "other". whole and part.**
+		- interplay of presence and absence.
+- the notion of "sex", artificial unity of anatomical elements, biological functions
+	- acting as causal principle: **unique signifier and a universal signified**.
+- Sex is not an autonomous agency which produces secondary effects of sexuality, it is the most ideal and internal element in the deployment of sexuality organized by power.
+- The imaginary element of sex constituted "sex" itself as something desirable.
+- We must show that sex is historically subordinate to sexuality. Sexuality is a very real historical formation; it gave rise to **the notion of sex as a speculative element necessary to its operation.**
+	- The rallying point for the counterattack against the deployment of sex should be bodies and pleasures.
+
+Today, we expect our intelligibility to come from sex and **sex is worth dying for, it is imbued with the death instinct.**
+- Deployment of sexuality permits techniques to invest live while the **fictitious point of sex exerts deadly charm on everyone**.

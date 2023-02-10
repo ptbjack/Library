@@ -1358,7 +1358,7 @@ With the judgement of the Notion, we are concerned with the split within the Not
 
 ### I HYSTERIA, CERTAINTY AND DOUBT
 
-#### ittgenstein as a Hegelian
+#### Wittgenstein as a Hegelian
 
 Wittgenstein: in imagination, we put a thing into its own shape and saw that it fitted; identity-with-itself is paradoxical coincidence of a thing with its own empty place.
 * Notion of identity implies the presence of the symbolic order: for an object to "coincide" with its empty place, we must in advance "abstract" it from its place so we can perceive the place without the object.
